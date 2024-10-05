@@ -1,7 +1,7 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
 🔭 **Title:** M27: Not a Comet  
-📅 **Date:** 2024-10-05  
+📅 **Date:** 05 October 2024  
 📸 **Credits:** Francesco Sferlazza, Franco Sgueglia  
 
 ## **What's Happening in the Cosmos Today?** 📫

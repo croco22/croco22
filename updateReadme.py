@@ -1,5 +1,7 @@
 import os
+import subprocess
 from datetime import datetime
+
 import requests
 from dotenv import load_dotenv
 
@@ -43,7 +45,7 @@ if response.status_code == 200:
 else:
     exit(f"Error: {response.status_code}")
 
-# # Push to GitHub
-# os.system("git add README.md")
-# os.system(f"git commit -m 'Auto-commit: Astronomy Picture of the Day'")
-# os.system("git push")
+# Push to GitHub
+subprocess.run(["git", "add", "README.md"], check=True)
+subprocess.run(["git", "commit", "-m", "Auto-commit: Astronomy Picture of the Day"], check=True)
+subprocess.run(["git", "push"], check=True)
