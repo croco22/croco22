@@ -1,6 +1,7 @@
 import os
-from dotenv import load_dotenv
+from datetime import datetime
 import requests
+from dotenv import load_dotenv
 
 # Load environment variables from .env file
 load_dotenv()
@@ -16,11 +17,15 @@ response = requests.get(api_url, params=params)
 if response.status_code == 200:
     data = response.json()
     title = data.get("title", "Title not found")
-    date = data.get("date", "Date not found")
+    date_raw = data.get("date", "Date not found")
     authors = data.get("copyright", "Copyright not found")
     text = data.get("explanation", "Explanation not found")
     url = data.get("url", "Image URL not found")
     hdurl = data.get("hdurl", "HD Image URL not found")
+
+    # Format date
+    date_object = datetime.strptime(date_raw, "%Y-%m-%d")
+    date = date_object.strftime("%d %B %Y")
 
     with open('readmeTemplate.md', 'r') as file:
         markdown_content = file.read()
@@ -37,3 +42,8 @@ if response.status_code == 200:
         file.write(markdown_content)
 else:
     exit(f"Error: {response.status_code}")
+
+# # Push to GitHub
+# os.system("git add README.md")
+# os.system(f"git commit -m 'Auto-commit: Astronomy Picture of the Day'")
+# os.system("git push")
