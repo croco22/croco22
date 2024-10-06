@@ -29,7 +29,7 @@ if response.status_code == 200:
     date_object = datetime.strptime(date_raw, "%Y-%m-%d")
     date = date_object.strftime("%d %B %Y")
 
-    with open('readmeTemplate.md', 'r') as file:
+    with open('readmeTemplate.md', 'r', encoding='utf-8') as file:
         markdown_content = file.read()
 
     # Replace placeholders with variable values
@@ -40,7 +40,7 @@ if response.status_code == 200:
     markdown_content = markdown_content.replace('{{ url }}', url)
     markdown_content = markdown_content.replace('{{ hdurl }}', hdurl)
 
-    with open('README.md', 'w') as file:
+    with open('README.md', 'w', encoding='utf-8') as file:
         file.write(markdown_content)
 else:
     exit(f"Error: {response.status_code}")
