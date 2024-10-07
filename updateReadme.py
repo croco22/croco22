@@ -42,10 +42,10 @@ if response.status_code == 200:
 
     with open('README.md', 'w', encoding='utf-8') as file:
         file.write(markdown_content)
+
+    # Push to GitHub
+    subprocess.run(["git", "add", "README.md"], check=True)
+    subprocess.run(["git", "commit", "-m", "Auto-commit: Astronomy Picture of the Day"], check=True)
+    subprocess.run(["git", "push"], check=True)
 else:
     exit(f"Error: {response.status_code}")
-
-# Push to GitHub
-subprocess.run(["git", "add", "README.md"], check=True)
-subprocess.run(["git", "commit", "-m", "Auto-commit: Astronomy Picture of the Day"], check=True)
-subprocess.run(["git", "push"], check=True)
