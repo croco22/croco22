@@ -1,16 +1,16 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** The Long Tails Comet Tsuchinshan-ATLAS  
-📅 **Date:** 07 October 2024  
+🔭 **Title:** M106: A Spiral Galaxy with a Strange Center  
+📅 **Date:** 09 October 2024  
 📸 **Credits:** 
-Jose Santivañez Mueras
+Ali Al Obaidly
   
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-A bright comet is moving into the evening skies. C/2023 A3 (Tsuchinshan–ATLAS) has brightened and even though it is now easily visible to the unaided eye, it is so near to the Sun that it is still difficult to see. Pictured, Comet Tsuchinshan–ATLAS was captured just before sunrise from an Andes Mountain in Peru. Braving cold weather, this unusually high perch gave the astrophotographer such a low eastern horizon that the comet was obvious in the pre-dawn sky.  Visible in the featured image is not only an impressively long dust tail extending over many degrees, but an impressively long and blue ion tail, too.  This month, as the comet moves out from the Sun and passes the Earth, evening observers should be able to see the huge dirty ice ball toward the west just after sunset.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
+What's happening at the center of spiral galaxy M106? A swirling disk of stars and gas, M106's appearance is dominated by blue spiral arms and red  dust lanes near the nucleus, as shown in the featured image taken from the Kuwaiti desert.  The core of M106 glows brightly in radio waves and X-rays where twin jets have been found running the length of the galaxy.  An unusual central glow makes M106 one of the closest examples of the Seyfert class of galaxies, where vast amounts of glowing gas are thought to be falling into a central massive black hole.  M106, also designated NGC 4258, is a relatively close 23.5 million light years away, spans 60 thousand light years across, and can be seen with a small telescope towards the constellation of the Hunting Dogs (Canes Venatici).
 
 
-![The Long Tails Comet Tsuchinshan-ATLAS](https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1080.jpg)
+![M106: A Spiral Galaxy with a Strange Center](https://apod.nasa.gov/apod/image/2410/M106_Obaidly_960.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1872.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2410/M106_Obaidly_3500.jpg)
