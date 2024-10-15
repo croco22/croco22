@@ -1,14 +1,16 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Ring of Fire over Easter Island  
-📅 **Date:** 11 October 2024  
-📸 **Credits:** Yuri Beletsky  
+🔭 **Title:** Animation: Comet Tsuchinshan-ATLAS Tails Prediction  
+📅 **Date:** 15 October 2024  
+📸 **Credits:** 
+Nico Lefaudeux
+  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, making its only major landfall near the southern tip of South America, and then ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Also tracking across islands in the southern Pacific, the Moon's antumbral shadow grazed Easter Island allowing denizens to follow all phases of the annular eclipse. Framed by palm tree leaves this clear island view is a stack of two images, one taken with and one taken without a solar filter near the moment of the maximum annular phase. The New Moon's silhouette appears just off center, though still engulfed by the bright disk of the active Sun.
+How bright and strange will the tails of Comet Tsuchinshan-ATLAS become? The comet has brightened dramatically over the few weeks as it passed its closest to the Sun and, just three days ago, passed its closest to the Earth. C/2023 A3 (Tsuchinshan–ATLAS) became of the brightest comets of the past century over the past few days, but was unfortunately hard to see because it was so nearly superposed on the Sun.  As the comet appears to move away from the Sun, it is becoming a remarkable sight -- but may soon begin to fade.  The featured animated video shows how the comet's tails have developed, as viewed from Earth, and gives one prediction about how they might further develop. As shown in the video, heavier parts of the  dust tail that trails the comet have begun to appear to point in nearly the opposite direction from lighter parts of the dust tail as well as the comet's  ion tail, the blue tail that is pushed directly out from the Sun by the solar wind.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
 
 
-![Ring of Fire over Easter Island](https://apod.nasa.gov/apod/image/2410/eclipse_02_1024.jpg)
+![Animation: Comet Tsuchinshan-ATLAS Tails Prediction](https://www.youtube.com/embed/dY6poe072_c?rel=0)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2410/eclipse_02.jpg)
+🌠 **Want the HD version?** [Click here!](HD Image URL not found)
