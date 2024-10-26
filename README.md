@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** M16: Pillars of Star Creation  
-📅 **Date:** 22 October 2024  
-📸 **Credits:** Copyright not found  
+🔭 **Title:** Phantoms in Cassiopeia  
+📅 **Date:** 26 October 2024  
+📸 **Credits:** Christophe Vergnes  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-These dark pillars may look destructive, but they are creating stars.  This pillar-capturing picture of the Eagle Nebula combines visible light exposures taken with the Hubble Space Telescope with infrared images taken with the James Webb Space Telescope to highlight evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillar's end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.   Jigsaw Challenge: Astronomy Puzzle of the Day
+These brightly outlined flowing shapes look ghostly on a cosmic scale. A telescopic view toward the constellation Cassiopeia, the colorful skyscape features the swept-back, comet-shaped clouds IC 59 (left) and IC 63. About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, under the influence of energetic radiation from hot, luminous star gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae and lies just above the right edge of the frame. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the hot star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The field of view spans over 1 degree or 10 light-years at the estimated distance of the interstellar apparitions.
 
 
-![M16: Pillars of Star Creation](https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg)
+![Phantoms in Cassiopeia](https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_6500.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2410/IC63.jpg)
