@@ -1,21 +1,16 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** LDN 43: The Cosmic Bat Nebula  
-📅 **Date:** 27 October 2024  
+🔭 **Title:** STEVE: A Glowing River over France  
+📅 **Date:** 28 October 2024  
 📸 **Credits:** 
-Mark Hanson and 
-Mike Selby;
-Text: 
-Michelle Thaller 
-(NASA's 
-GSFC)
+Louis LEROUX-GÉRÉ
   
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-What is the most spook-tacular nebula in the galaxy?   One contender is LDN 43, which bears an astonishing resemblance to a vast cosmic bat flying amongst the stars on a dark Halloween night.  Located about 1400 light years away in the constellation Ophiuchus, this molecular cloud is dense enough to block light not only from background stars, but from wisps of gas lit up by the nearby reflection nebula LBN 7.  Far from being a harbinger of death, this 12-light year-long filament of gas and dust is actually a stellar nursery.  Glowing with eerie light, the bat is lit up from inside by dense gaseous knots that have just formed young stars.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Sometimes a river of hot gas flows over your head. In this case the river created a Strong Thermal Emission Velocity Enhancement (STEVE) that glowed bright red, white, and pink. Details of how STEVEs work remain a topic of research, but recent evidence holds that their glow results from a fast-moving river of hot ions flowing over a hundred kilometers up in the Earth's atmosphere: the ionosphere. The more expansive dull red glow might be related to the flowing STEVE, but alternatively might be a Stable Auroral Red (SAR) arc, a more general heat-related glow. The featured picture, taken earlier this month in Côte d'Opale, France, is a wide-angle digital composite made as the STEVE arc formed nearly overhead.  Although the apparition lasted only a few minutes, this was long enough for the quick-thinking astrophotographer to get in the picture -- can you find him?
 
 
-![LDN 43: The Cosmic Bat Nebula](https://apod.nasa.gov/apod/image/2410/LDN43_SelbyHanson_960.jpg)
+![STEVE: A Glowing River over France](https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_1080.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2410/LDN43_SelbyHanson_3993.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_2160.jpg)
