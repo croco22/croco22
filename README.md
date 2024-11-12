@@ -1,14 +1,16 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Valles Marineris: The Grand Canyon of Mars  
-📅 **Date:** 10 November 2024  
-📸 **Credits:** Copyright not found  
+🔭 **Title:** NGC 6888: The Crescent Nebula  
+📅 **Date:** 12 November 2024  
+📸 **Credits:** 
+Team ARO
+  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-The largest canyon in the Solar System cuts a wide swath across the face of Mars.  Named Valles Marineris, the grand valley extends over 3,000 kilometers long, spans as much as 600 kilometers across, and delves as much as 8 kilometers deep.  By comparison, the Earth's Grand Canyon in Arizona, USA is 800 kilometers long, 30 kilometers across, and 1.8 kilometers deep.  The origin of the Valles Marineris remains unknown, although a leading hypothesis holds that it started as a crack billions of years ago as the planet cooled.  Several geologic processes have been identified in the canyon.  The featured mosaic was  created from over 100 images of Mars taken by Viking Orbiters in the 1970s.
+How was the Crescent Nebula created?  Looking like an emerging space cocoon, the Crescent Nebula, visible in the center of the featured image, was created by the brightest star in its center.  A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago.  At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years.  This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up.  The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus.  Star WR 136 will probably undergo a supernova explosion sometime in the next million years.   Jigsaw Challenge: Astronomy Puzzle of the Day
 
 
-![Valles Marineris: The Grand Canyon of Mars](https://apod.nasa.gov/apod/image/2411/marsglobe_viking_960.jpg)
+![NGC 6888: The Crescent Nebula](https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_960.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/marsglobe_viking_1552.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_2466.jpg)
