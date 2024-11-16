@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** IC 348 and Barnard 3  
-📅 **Date:** 14 November 2024  
-📸 **Credits:** Ashraf Abu Sara  
+🔭 **Title:** Pluto at Night  
+📅 **Date:** 16 November 2024  
+📸 **Credits:** Copyright not found  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-A great nebulous region near bright star omicron Persei offers this study in cosmic contrasts.  Captured in the telescopic frame the colorful complex of dust, gas, and stars spans about 3 degrees on the sky along the edge of the Perseus molecular cloud some 1000 light-years away. Surrounded by a bluish halo of dust reflected starlight, omicron Persei itself is just left of center. Immediately below it lies the intriguing young star cluster IC 348 recently explored by the James Webb Space Telescope. In silhouette against the diffuse reddish glow of hydrogen gas, dark and obscuring interstellar dust cloud Barnard 3 is at upper right. Of course the cosmic dust also tends to hide newly formed stars and young stellar objects or protostars from prying optical telescopes. At the Perseus molecular cloud's estimated distance, this field of view would span about 50 light-years.
+The night side of Pluto spans this shadowy scene. In the stunning spacebased perspective the Sun is 4.9 billion kilometers (almost 4.5 light-hours) behind the dim and distant world. It was captured by far flung New Horizons in July of 2015 when the spacecraft was at a range of some 21,000 kilometers from Pluto, about 19 minutes after its closest approach. A denizen of the Kuiper Belt in dramatic silhouette, the image also reveals Pluto's tenuous, surprisingly complex layers of hazy atmosphere. Near the top of the frame the crescent twilight landscape includes southern areas of nitrogen ice plains now formally known as Sputnik Planitia and rugged mountains of water-ice in the Norgay Montes.
 
 
-![IC 348 and Barnard 3](https://apod.nasa.gov/apod/image/2411/IC348_B3_1024.jpg)
+![Pluto at Night](https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight1024c.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/IC348_B3_2048.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight.jpg)
