@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** LDN 1471: A Windblown Star Cavity  
-📅 **Date:** 17 November 2024  
+🔭 **Title:** Earthset from Orion  
+📅 **Date:** 20 November 2024  
 📸 **Credits:** Copyright not found  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-What is the cause of this unusual parabolic structure?  This illuminated cavity, known as LDN 1471, was created by a newly forming star, seen as the bright source at the peak of the parabola.  This protostar is experiencing a stellar outflow which is then interacting with the surrounding material in the Perseus Molecular Cloud, causing it to brighten.  We see only one side of the cavity -- the other side is hidden by dark dust.  The parabolic shape is caused by the widening of the stellar-wind blown cavity over time. Two additional structures can also be seen either side of the protostar; these are known as Herbig-Haro objects, again caused by the interaction of the outflow with the surrounding material.  What causes the striations on the cavity walls, though, remains unknown.  The featured image was taken by NASA and ESA’s Hubble Space Telescope after an original detection by the Spitzer Space Telescope.   Explore Your Universe: Random APOD Generator
+ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Orion entered its distant retrograde orbit on November 25. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is scheduled to launch no earlier than September 2025.
 
 
-![LDN 1471: A Windblown Star Cavity](https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_960.jpg)
+![Earthset from Orion](https://apod.nasa.gov/apod/image/2411/earthset-snap01.png)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_1024.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/earthset-snap00.png)
