@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Earthset from Orion  
-📅 **Date:** 20 November 2024  
-📸 **Credits:** Copyright not found  
+🔭 **Title:** The Elephant's Trunk in Cepheus  
+📅 **Date:** 21 November 2024  
+📸 **Credits:** Giorgio Ferrari  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Orion entered its distant retrograde orbit on November 25. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is scheduled to launch no earlier than September 2025.
+Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. This rendition spans a 1 degree wide field of view though, about the angular size of 2 full moons.
 
 
-![Earthset from Orion](https://apod.nasa.gov/apod/image/2411/earthset-snap01.png)
+![The Elephant's Trunk in Cepheus](https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/earthset-snap00.png)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk2048.jpg)
