@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Ice Clouds over a Red Planet  
-📅 **Date:** 03 December 2024  
-📸 **Credits:** Copyright not found  
+🔭 **Title:** Stereo Jupiter near Opposition  
+📅 **Date:** 05 December 2024  
+📸 **Credits:** Marco Lorenzi  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-If you could stand on Mars -- what might you see?  You might look out over a vast orange landscape covered with rocks under a dusty orange sky, with a blue-tinted Sun setting over the horizon, and odd-shaped water clouds hovering high overhead. This was just the view captured last March by NASA's rolling explorer,  Perseverance. The orange coloring is caused by rusted iron in the Martian dirt, some of which is small enough to be swept up by winds into the atmosphere. The blue tint near the setting Sun is caused by blue light being preferentially scattered out from the Sun by the floating dust. The light-colored clouds on the right are likely composed of water-ice and appear high in the Martian atmosphere.  The shapes of some of these clouds are unusual for Earth and remain a topic of research.
+Jupiter looks sharp in these two rooftop telescope images. Both were captured last year on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the 3D effect. Of course Jupiter is now not far from its 2024 opposition. Planet Earth is set to pass between the Solar System's ruling gas giant and the Sun on December 7.
 
 
-![Ice Clouds over a Red Planet](https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg)
+![Stereo Jupiter near Opposition](https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_2048.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo.png)
