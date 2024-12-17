@@ -1,16 +1,17 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Geminid Meteors over a Snowy Forest  
-📅 **Date:** 15 December 2024  
+🔭 **Title:** Near to the Heart Nebula  
+📅 **Date:** 17 December 2024  
 📸 **Credits:** 
-Jakub Kuřák
+Jeff Horne & 
+Drew Evans
   
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-Meteors have been flowing out from the constellation Gemini.  This was expected, as mid-December is the time of the Geminid Meteor Shower.  Pictured here, over two dozen meteors were caught in successively added exposures taken over several hours early Saturday morning from a snowy forest in Poland. The fleeting streaks were bright enough to be seen over the din of the nearly full Moon on the upper right. These streaks can all be traced back to a point on the sky called the radiant toward the bright stars Pollux and Castor in the image center. The Geminid meteors started as sand sized bits expelled from asteroid 3200 Phaethon during its elliptical orbit through the inner Solar System.    Jigsaw Challenge: Astronomy Puzzle of the Day
+What excites the Heart Nebula? First, the large emission nebula on the upper left, catalogued as IC 1805, looks somewhat like a human heart.  The nebula glows brightly in red light emitted by its most prominent element, hydrogen, but this long-exposure image was also blended with light emitted by sulfur (yellow) and oxygen (blue).  In the center of the Heart Nebula are young stars from the open star cluster Melotte 15 that are eroding away several picturesque dust pillars with their atom-exciting energetic light and winds. The Heart Nebula is located about 7,500 light years away toward the constellation of Cassiopeia.  This wide field image shows much more, though, including the Fishhead Nebula just below the Heart, a supernova remnant on the lower left, and three planetary nebulas on the image right.  Taken over 57 nights, this image is so deep, though, that it clearly shows fainter long and complex filaments.
 
 
-![Geminid Meteors over a Snowy Forest](https://apod.nasa.gov/apod/image/2412/Geminids_Kurak_960.jpg)
+![Near to the Heart Nebula](https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_1080.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/Geminids_Kurak_5757.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/Heart_HorneEvans_4096.jpg)
