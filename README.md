@@ -1,16 +1,16 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Christmas Tree Aurora  
-📅 **Date:** 23 December 2024  
+🔭 **Title:** Fox Fur, Cone, and Christmas Tree  
+📅 **Date:** 24 December 2024  
 📸 **Credits:** 
-Jingyi Zhang
+Tim White
   
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-It was December and the sky lit up like a Christmas tree. Shimmering, the vivid green, blue, and purple auroral colors that formed the tree-like apparition were caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Collisions caused the orbital electrons of atoms and molecules to jump into excited energy states and emit visible light when returning to their normal state. The featured image was captured in Djúpivogur, Iceland during the last month of 2023. Our Sun is currently in its most energetic phase of its 11-year cycle, with its high number of active regions and sunspots likely to last into next year. Of course, the Sun has been near solar maximum during this entire year, with its outbursts sometimes resulting in spectacular Earthly auroras.    Image Processors: Take NASA's Astrophoto Challenge
+What do the following things have in common: a cone, the fur of a fox, and a Christmas tree?  Answer: they all occur in the constellation of the Unicorn (Monoceros).  Considered as a star forming region and cataloged as NGC 2264, the complex jumble of cosmic gas and dust is about 2,700 light-years distant and mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. The featured image spans an angle larger than a full moon, covering over 50 light-years at the distance of NGC 2264. Its cast of cosmic characters includes the Fox Fur Nebula, whose convoluted pelt lies just to the left of the image center, bright variable star S Mon visible just to the right of the Fox Fur, and the Cone Nebula near the image top.  With the Cone Nebula at the peak, the shape of the general glow of the region give it the nickname of the Christmas Tree Cluster, where stars are tree ornaments.   Explore Your Universe: Random APOD Generator
 
 
-![Christmas Tree Aurora](https://apod.nasa.gov/apod/image/2412/AuroraTree_Zhang_960.jpg)
+![Fox Fur, Cone, and Christmas Tree](https://apod.nasa.gov/apod/image/2412/ConeTree_White_960.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/AuroraTree_Zhang_1537.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/ConeTree_White_2154.jpg)
