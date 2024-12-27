@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Grand Spiral NGC 5643  
-📅 **Date:** 26 December 2024  
+🔭 **Title:** Planet Earth at Twilight  
+📅 **Date:** 27 December 2024  
 📸 **Credits:** Copyright not found  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-Viewed face-on, grand spiral galaxy NGC 5643 has a festive appearance in this colorful cosmic portrait. Some 55 million light-years distant, the galaxy extends for over 100,000 light-years, seen within the boundaries of the southern constellation Lupus. Its inner 40,000 light-years are shown in sharp detail in this composite of Hubble Space Telescope image data. The galaxy's magnificent spiral arms wind from a yellowish central region dominated by light from old stars, while the spiral arms themselves are traced by dust lanes, young blue stars and reddish star forming regions. The bright compact core of NGC 5643 is also known as a strong emitter of radio waves and X-rays. In fact, NGC 5643 is one of the closest examples of the Seyfert class of active galaxies, where vast amounts of dust and gas are thought to be falling into a central massive black hole.
+No sudden, sharp boundary marks the passage of day into night in this gorgeous view of ocean and clouds over our fair planet Earth. Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight. With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened sunlight filtered through the dusty troposphere, the lowest layer of the planet's nurturing atmosphere. A clear high altitude layer, visible along the dayside's upper edge, scatters blue sunlight and fades into the blackness of space. This picture was taken from the International Space Station orbiting at an altitude of 211 nautical miles. Of course from home, you can check out the Earth Now.
 
 
-![Grand Spiral NGC 5643](https://apod.nasa.gov/apod/image/2412/Hubble_NGC5643_potw2450a1024.jpg)
+![Planet Earth at Twilight](https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_1024c.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/Hubble_NGC5643_potw2450a.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_2048c.jpg)
