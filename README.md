@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Welcome to Perihelion  
-📅 **Date:** 04 January 2025  
-📸 **Credits:** Barden Ridge Observatory  
+🔭 **Title:** Colliding Spiral Galaxies from Webb and Hubble  
+📅 **Date:** 06 January 2025  
+📸 **Credits:** Copyright not found  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-rth's orbit around the Sun is not a circle, it's an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year perihelion is today, January 4, at 13:28 UTC, with the Earth about 147 million kilometers from the Sun. For comparison, at aphelion on last July 3 Earth was at its farthest distance from the Sun, some 152 million kilometers away. But distance from the Sun doesn't determine Earth's seasons. It's only by coincidence that the beginning of southern summer (northern winter) on the December solstice - when this H-alpha picture of the active Sun was taken - is within 14 days of Earth's perihelion date. And it's only by coincidence that Earth's perihelion date is within 11 days of the historic perihelion of NASA's Parker Solar Probe. Launched in 2018, the Parker Solar Probe flew within 6.2 million kilometers of the Sun's surface on 2024 December 24, breaking its own record for closest perihelion for a spacecraft from planet Earth.
+Billions of years from now, only one of these two galaxies will remain.  Until then, spiral galaxies NGC 2207 and IC 2163 will slowly pull each other apart, creating tides of matter, sheets of shocked gas, lanes of dark dust, bursts of star formation, and streams of cast-away stars.  The featured image in scientifically assigned colors is a composite of Hubble exposures in visible light and Webb exposures in infrared light. Astronomers predict that NGC 2207, the larger galaxy on the right, will eventually incorporate IC 2163, the smaller galaxy on the left.  In the most recent encounter that about peaked 40 million years ago, the smaller galaxy is swinging around counter-clockwise and is now slightly behind the larger galaxy.  The space between stars is so vast that when galaxies collide, the stars in them usually do not collide.   Jigsaw Challenge: Astronomy Puzzle of the Day
 
 
-![Welcome to Perihelion](https://apod.nasa.gov/apod/image/2501/20242112SolNeg1024.jpg)
+![Colliding Spiral Galaxies from Webb and Hubble](https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1080.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2501/20242112SolNeg.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1877.jpg)
