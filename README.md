@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Supernova Remnant Cassiopeia A  
-📅 **Date:** 17 January 2025  
+🔭 **Title:** Titan Touchdown: Huygens Descent Movie  
+📅 **Date:** 19 January 2025  
 📸 **Credits:** Copyright not found  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.
+What would it look like to land on Saturn's moon Titan? The European Space Agency's Huygens probe set down on the Solar System's cloudiest moon in 2005, and a time-lapse video of its descent images was created. Huygens separated from the robotic Cassini spacecraft soon after it achieved orbit around Saturn in late 2004 and began approaching Titan. For two hours after arriving, Huygens plummeted toward Titan's surface, recording at first only the shrouded moon's opaque atmosphere. The computerized truck-tire sized probe soon deployed a parachute to slow its descent, pierced the thick clouds, and began transmitting images of a strange surface far below never before seen in visible light. Landing in a dried sea and surviving for 90 minutes, Huygen's returned unique images of a strange plain of dark sandy soil strewn with smooth, bright, fist-sized rocks of ice.
 
 
-![Supernova Remnant Cassiopeia A](https://apod.nasa.gov/apod/image/2501/CasA_nircam_1024.jpg)
+![Titan Touchdown: Huygens Descent Movie](https://www.youtube.com/embed/msiLWxDayuA?rel=0)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2501/CasA_nircam_4096.jpg)
+🌠 **Want the HD version?** [Click here!](HD Image URL not found)
