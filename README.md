@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** NGC 7814: Little Sombrero  
-📅 **Date:** 23 January 2025  
-📸 **Credits:** Mike Selby  
+🔭 **Title:** Comet G3 ATLAS: a Tail and a Telescope  
+📅 **Date:** 24 January 2025  
+📸 **Credits:** Yuri Beletsky  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-Point your telescope toward the high flying constellation Pegasus and you can find this cosmic expanse of Milky Way stars and distant galaxies. NGC 7814 is centered in the sharp field of view that would almost be covered by a full moon. NGC 7814 is sometimes called the Little Sombrero for its resemblance to the brighter more famous M104, the Sombrero Galaxy. Both Sombrero and Little Sombrero are spiral galaxies seen edge-on, and both have extensive halos and central bulges cut by a thin disk with thinner dust lanes in silhouette. In fact, NGC 7814 is some 40 million light-years away and an estimated 60,000 light-years across. That actually makes the Little Sombrero about the same physical size as its better known namesake, appearing smaller and fainter only because it is farther away.
+Comet C/2024 G3 ATLAS has made a dramatic appearance in planet Earth's skies. A visitor from the distant Oort Cloud, the comet reached its perihelion on January 13. On January 19, the bright comet was captured here from ESO Paranal Observatory in the Atacama desert in Chile. Sporting spectacular sweeping dust tails, this comet ATLAS is setting in the southern hemisphere twilight and was clearly visible to the unaided eye. In the foreground is the closed shell of one of the observatory's famous auxiliary telescopes. Still wowing southern hemisphere observers, the comet's bright coma has become diffuse, its icy nucleus apparently disintegrating following its close approach to the Sun.   Growing Gallery: Comet ATLAS (G3)
 
 
-![NGC 7814: Little Sombrero](https://apod.nasa.gov/apod/image/2501/NGC_7814_crop-rev-1_1024.jpg)
+![Comet G3 ATLAS: a Tail and a Telescope](https://apod.nasa.gov/apod/image/2501/C2024G3_ATLAS_ESO_Beletsky.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2501/NGC_7814_crop-rev-1.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2501/C2024G3_ATLAS_ESO_Beletsky.jpg)
