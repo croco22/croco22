@@ -1,14 +1,15 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** The Variable Nebula NGC 2261  
-📅 **Date:** 31 January 2025  
-📸 **Credits:** Tommy Lease  
+🔭 **Title:** Nacreous Clouds over Sweden  
+📅 **Date:** 01 February 2025  
+📸 **Credits:** Known as nacreous
+clouds  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-The interstellar cloud of dust and gas captured in this sharp telescopic snapshot is seen to change its appearance noticeably over periods as short as a few weeks. Discovered over 200 years ago and cataloged as NGC 2261, bright star R Monocerotis lies at the tip of the fan-shaped nebula. About one light-year across and 2500 light-years away, NGC 2261 was studied early last century by astronomer Edwin Hubble and the mysterious cosmic cloud is now more famous as Hubble's Variable Nebula. So what makes Hubble's nebula vary? NGC 2261 is composed of a dusty reflection nebula fanning out from the star R Monocerotis.  The leading variability explanation holds that dense knots of obscuring dust pass close to R Mon and cast moving shadows across the dust clouds in the rest of Hubble's Variable Nebula.
+Vivid and lustrous, wafting iridescent waves of color wash across this skyscape from northern Sweden. Known as nacreous clouds or mother-of-pearl clouds, they are rare. But their unforgettable appearance was captured in this snapshot on January 12 with the Sun just below the local horizon. A type of polar stratospheric cloud, they form when unusually cold temperatures in the usually cloudless lower stratosphere form ice crystals. Still sunlit at altitudes of around 15 to 25 kilometers, the clouds diffract the sunlight even when the Sun itself is hidden from direct view.
 
 
-![The Variable Nebula NGC 2261](https://apod.nasa.gov/apod/image/2501/HubblesVariablecopy1024.jpg)
+![Nacreous Clouds over Sweden](https://apod.nasa.gov/apod/image/2502/IMG_0340-Internet-2_1024.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2501/HubblesVariablecopy.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2502/IMG_0340-Internet-2.jpg)
