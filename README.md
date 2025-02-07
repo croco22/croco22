@@ -1,18 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Comet G3 ATLAS Setting over a Chilean Hill
-  
-📅 **Date:** 05 February 2025  
-📸 **Credits:** 
-Gabriel Muñoz
-  
+🔭 **Title:** LEDA 1313424: The Bullseye Galaxy  
+📅 **Date:** 07 February 2025  
+📸 **Credits:** Copyright not found  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-Where is Comet ATLAS going? In the featured time-lapse video, the comet is not itself moving very much, but the Earth's rotation makes it appear to be setting over a hill. The Comet C/2024 G3 (ATLAS) sequence was captured with an ordinary camera on January 22 from the Araucanía Region in central Chile. Comet ATLAS has been an impressive site in the evening skies of Earth's Southern Hemisphere over the past few weeks, so bright and awe-inspiring that it may eventually become known as the Great Comet of 2025. Unfortunately, Comet G3 ATLAS is not going anywhere anymore because its central nucleus broke up during its close pass to the Sun last month. Some of the comet's scattered remains of rocks and ice will continue to orbit the Sun, some in nearly the same outward section of the orbit that the comet's nucleus would have taken.
+The giant galaxy cataloged as LEDA 1313424 is about two and a half times the size of our own Milky Way. Its remarkable appearance in this recently released Hubble Space Telescope image strongly suggests its nickname "The Bullseye Galaxy". Known as a collisional ring galaxy it has nine rings confirmed by telescopic observations, rippling from its center like waves from a pebble dropped into a pond. Of course, the pebble dropped into the Bullseye galaxy was a galaxy itself. Telescopic observations identify the blue dwarf galaxy at center-left as the likely collider, passing through the giant galaxy's center and forming concentric rings in the wake of their gravitational interaction. The Bullseye Galaxy lies some 567 million light-years away toward the constellation Pisces. At that distance, this stunning Hubble image would span about 530,000 light-years.
 
 
-![Comet G3 ATLAS Setting over a Chilean Hill
-](https://www.youtube.com/embed/nt5j0NiVesQ)
+![LEDA 1313424: The Bullseye Galaxy](https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01_1024.jpg)
 
-🌠 **Want the HD version?** [Click here!](HD Image URL not found)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2502/Hubble_LEDA1313424_STScI-01.jpg)
