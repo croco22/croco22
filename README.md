@@ -1,14 +1,17 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Perijove 11: Passing Jupiter  
-📅 **Date:** 16 February 2025  
-📸 **Credits:** Copyright not found  
+🔭 **Title:** Thor's Helmet versus the Seagull  
+📅 **Date:** 18 February 2025  
+📸 **Credits:** 
+Nicolas Martino, Adrien Soto, Louis Leroux & 
+Yann Sainty
+  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-Here comes Jupiter. NASA's robotic spacecraft Juno is continuing on its highly elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.
+Seen as a seagull and a duck, these nebulae are not the only cosmic clouds to evoke images of flight. But both are winging their way across this broad celestial landscape, spanning almost 7 degrees across planet Earth's night sky toward the constellation of the Big Dog (Canis Major). The expansive Seagull (top center) is itself composed of two major cataloged emission nebulas. Brighter NGC 2327 forms the head with the more diffuse IC 2177 as the wings and body. Impressively, the Seagull's wingspan would correspond to about 250 light-years at the nebula's estimated distance of 3,800 light-years. At the lower right, the Duck appears much more compact and would span only about 50 light-years given its 15,000 light-year distance estimate. Blown by energetic winds from an extremely massive, hot star near its center, the Duck nebula is cataloged as NGC 2359. Of course, the Duck's thick body and winged appendages also lend it the slightly more dramatic popular moniker, Thor's Helmet.   Portal Universe: Random APOD Generator
 
 
-![Perijove 11: Passing Jupiter](https://www.youtube.com/embed/OfM7VlonD5c?rel=0)
+![Thor's Helmet versus the Seagull](https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_960.jpg)
 
-🌠 **Want the HD version?** [Click here!](HD Image URL not found)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_5149.jpg)
