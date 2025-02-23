@@ -1,14 +1,14 @@
 # 🌌 **Astronomy Picture of the Day** 🌌
 
-🔭 **Title:** Rima Hyginus  
-📅 **Date:** 22 February 2025  
-📸 **Credits:** Vincenzo Mirabella  
+🔭 **Title:** Saturn in Infrared from Cassini  
+📅 **Date:** 23 February 2025  
+📸 **Credits:** Copyright not found  
 
 ## **What's Happening in the Cosmos Today?** 📫
 
-Rima Hyginus is a spectacular fissure, some 220 kilometers long, found near the center of the lunar near side. Easy to spot in telescopic views of the Moon, it stretches top left to bottom right across this lunar closeup. The image was made with exaggerated colors that reflect the mineral composition of the lunar soil. Hyginus crater lies near the center of the narrow lunar surface groove. About 10 kilometers in diameter, the low-walled crater is a volcanic caldera, one of the larger non-impact craters on the lunar surface. Dotted with small pits formed by surface collapse, Hyginus rima itself was likely created by stresses due to internal magma upwelling and collapse along a long surface fault. The intriguing region was a candidate landing site for the canceled Apollo 19 mission.
+Saturn looks slightly different in infrared light. Bands of clouds show great structure, including long stretching storms.  Also quite striking in infrared is the unusual hexagonal cloud pattern surrounding Saturn's North Pole.  Each side of the dark hexagon spans roughly the width of our Earth. The hexagon's existence was not predicted, and its origin and likely stability remain a topics of research.  Saturn's famous rings circle the planet and cast shadows below the equator. The featured image was taken by the robotic Cassini spacecraft in 2014 in several infrared colors.  In 2017 September, the Cassini mission was brought to a dramatic conclusion when the spacecraft was  directed to dive into the ringed giant.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
 
-![Rima Hyginus](https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1024px.jpg)
+![Saturn in Infrared from Cassini](https://apod.nasa.gov/apod/image/2502/SaturnIR_CassiniKakitsev_960.jpg)
 
-🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1500px.jpg)
+🌠 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2502/SaturnIR_CassiniKakitsev_1024.jpg)
