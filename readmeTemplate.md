@@ -1,14 +1,16 @@
-# 🌌 **Astronomy Picture of the Day** 🌌
-
+# 🌌 Astronomy Picture of the Day 🌌
 🔭 **Title:** {{ title }}  
 📅 **Date:** {{ date }}  
-📸 **Credits:** {{ authors }}  
+📸 **Image Credit:** {{ credit }}  
 
-## **What's Happening in the Cosmos Today?** 📫
-
-{{ text }}
-
+## The Story Behind the Image 🧑‍🚀🔭
+{{ story }}
 
 ![{{ title }}]({{ url }})
 
-🌠 **Want the HD version?** [Click here!]({{ hdurl }})
+**Want the HD version?** [Click here!]({{ hdurl }})
+
+## Astronomy Fact of the Day 👩‍🚀🚀
+{{ fact }}
+
+**Source**: [Saint Louis Science Center]({{ source }})
