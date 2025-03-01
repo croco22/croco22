@@ -1,7 +1,7 @@
 import os
 import subprocess
 import re
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 
 import requests
 from bs4 import BeautifulSoup
@@ -9,14 +9,37 @@ from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
-
 # Load environment variables from .env file
 load_dotenv()
 
+
 # Selenium Setup
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-driver = webdriver.Chrome(options=chrome_options)
+def get_driver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    return webdriver.Chrome(options=chrome_options)
+
+
+def get_fact_for_date(target_date):
+    slsc_url = f"https://www.slsc.org/astronomy-fact-of-the-day-{target_date}/"
+
+    driver = get_driver()
+    driver.get(slsc_url)
+    driver.implicitly_wait(10)
+    html = driver.page_source
+    driver.quit()
+
+    soup = BeautifulSoup(html, "html.parser")
+    try:
+        elements = soup.find("div", class_="entry").find_all("p")[:-1]
+        raw_fact = "\n".join(str(p) for p in elements)
+        raw_img_match = re.search(r'src="(.*?)"', raw_fact)
+        raw_img = raw_img_match.group(1)
+        parsed_fact = re.sub(r'<img[^>]*src="[^"]*"[^>]*>', rf'<img src="{raw_img}" alt=""/>', raw_fact)
+        return parsed_fact, slsc_url
+    except AttributeError:
+        return None, slsc_url
+
 
 # NASA API endpoint
 nasa_url = "https://api.nasa.gov/planetary/apod"
@@ -35,33 +58,30 @@ hdurl = data.get("hdurl", "HD Image URL not provided")
 
 # Format date
 date_object = datetime.strptime(date_raw, "%Y-%m-%d")
-date = date_object.strftime("%B %d, %Y")
+date_str = date_object.strftime("%B %#d, %Y")
+slsc_date = date_object.strftime("%B-%#d-%Y").lower()
 
-# Selenium-powered Fact Scraper
-slsc_date = date_object.strftime("%B-%d-%Y").lower()
-slsc_url = f"https://www.slsc.org/astronomy-fact-of-the-day-{slsc_date}/"
-driver.get(slsc_url)
-driver.implicitly_wait(10)
-html = driver.page_source
-driver.quit()
-soup = BeautifulSoup(html, "html.parser")
-elements = soup.find("div", class_="entry").find_all("p")[:-1]
-raw_fact = "\n".join(str(p) for p in elements)
-raw_img = re.search(r'src="(.*?)"', raw_fact).group(1)
-fact = re.sub(r'<img[^>]*src="[^"]*"[^>]*>', rf'<img src="{raw_img}" alt=""/>', raw_fact)
+# Try to get fact for today, if not available try previous day
+fact, source = get_fact_for_date(date_object)
+if not fact:
+    previous_date = date_object - timedelta(days=1)
+    slsc_date = previous_date.strftime("%B-%#d-%Y").lower()
+    fact, source = get_fact_for_date(slsc_date)
+    if not fact:
+        exit("No fact available for today or previous day.")
 
 with open('readmeTemplate.md', 'r', encoding='utf-8') as file:
     markdown_content = file.read()
 
 # Replace placeholders with variable values
 markdown_content = markdown_content.replace('{{ title }}', title)
-markdown_content = markdown_content.replace('{{ date }}', date)
+markdown_content = markdown_content.replace('{{ date }}', date_str)
 markdown_content = markdown_content.replace('{{ credit }}', credit)
 markdown_content = markdown_content.replace('{{ story }}', story)
 markdown_content = markdown_content.replace('{{ url }}', url)
 markdown_content = markdown_content.replace('{{ hdurl }}', hdurl)
 markdown_content = markdown_content.replace('{{ fact }}', fact)
-markdown_content = markdown_content.replace('{{ source }}', slsc_url)
+markdown_content = markdown_content.replace('{{ source }}', source)
 
 with open('README.md', 'w', encoding='utf-8') as file:
     file.write(markdown_content)
