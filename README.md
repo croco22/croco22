@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Blue Ghost to the Moon  
-📅 **Date:** March 1, 2025  
+🔭 **Title:** The Hubble Ultra Deep Field in Light and Sound  
+📅 **Date:** March 2, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-With spacecraft thrusters at top center, the rugged surface of the Moon lies below the Blue Ghost lander in this space age video frame. The view of the lunar far side was captured by the Firefly Aerospace lunar lander on February 24, following a maneuver to circularize its orbit about 100 kilometers above the lunar surface. The robotic lunar lander is scheduled to touch down tomorrow, Sunday, March 2, at 3:34am Eastern Time in the Mare Crisium impact basin on the lunar near side. In support of the Artemis campaign, Blue Ghost is set to deliver science and technology experiments to the Moon, part of NASA's Commercial Lunar Payload Services program. Blue Ghost's mission on the surface is planned to operate during the lunar daylight hours at the landing site, about 14 Earth days.
+Have you heard about the Hubble Ultra-Deep Field?  Either way, you've likely not heard about it like this -- please run your cursor over the featured image and listen!  The Hubble Ultra-Deep Field (HUDF) was created in 2003-2004 with the Hubble Space Telescope staring for a long time toward near-empty space so that distant, faint galaxies would become visible.  One of the most famous images in astronomy, the HUDF is featured here in a vibrant way -- with sonified distances. Pointing to a galaxy will play a note that indicates its approximate redshift. Because redshifts shift light toward the red end of the spectrum of light, they are depicted here by a shift of tone toward the low end of the spectrum of sound.  The further the galaxy, the greater its cosmological redshift (even if it appears blue), and the lower the tone that will be played. The average galaxy in the HUDF is about 10.6 billion light years away and sounds like an F#. What's the most distant galaxy you can find?
 
-![Blue Ghost to the Moon](https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg)
+![The Hubble Ultra Deep Field in Light and Sound](https://apod.nasa.gov/apod/image/1803/AstroSoM/hudf.html)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg)
+**Want the HD version?** [Click here!](HD Image URL not provided)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀
-<p>Tonight, there will be a conjunction of the Moon and Mercury. These two will make a close approach and share the same right ascension. You won’t have long to view the pair though, as they will set below the horizon 1 hour and 17 minutes after the sun around 7:09pm.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/02/feb-28.jpg" alt=""/></p>
-<p>The Moon will also be only 1 day old, making it more of a challenge to see this conjunction. A pair of binoculars could help with viewing though, but make sure the sun has fully set before pointing binoculars towards the west.</p>
+<p>Tonight, there will be a conjunction of the Moon and Venus. The pair will share the same right ascension and make a close approach at the same time. They will be approximately six degrees apart and low in the western sky.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/02/mar-1.jpg" alt=""/></p>
+<p>There’s a relatively short window to see these two solar system objects together as they will be setting between 7:45pm and 8:00pm, only being visible for around two hours at the most.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-february-28-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-1-2025/)
