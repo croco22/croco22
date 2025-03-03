@@ -1,18 +1,19 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** The Hubble Ultra Deep Field in Light and Sound  
-📅 **Date:** March 2, 2025  
+🔭 **Title:** Blue Ghost on the Moon  
+📅 **Date:** March 3, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Have you heard about the Hubble Ultra-Deep Field?  Either way, you've likely not heard about it like this -- please run your cursor over the featured image and listen!  The Hubble Ultra-Deep Field (HUDF) was created in 2003-2004 with the Hubble Space Telescope staring for a long time toward near-empty space so that distant, faint galaxies would become visible.  One of the most famous images in astronomy, the HUDF is featured here in a vibrant way -- with sonified distances. Pointing to a galaxy will play a note that indicates its approximate redshift. Because redshifts shift light toward the red end of the spectrum of light, they are depicted here by a shift of tone toward the low end of the spectrum of sound.  The further the galaxy, the greater its cosmological redshift (even if it appears blue), and the lower the tone that will be played. The average galaxy in the HUDF is about 10.6 billion light years away and sounds like an F#. What's the most distant galaxy you can find?
+There's a new lander on the Moon. Yesterday Firefly Aerospace's Blue Ghost executed the first-ever successful commercial lunar landing. During its planned 60-day mission, Blue Ghost will deploy several NASA-commissioned scientific instruments, including PlanetVac which captures lunar dust after creating a small whirlwind of gas. Blue Ghost will also host the telescope LEXI that captures X-ray images of the Earth's magnetosphere. LEXI data should enable a better understanding of how Earth's magnetic field protects the Earth from the Sun's wind and flares.  Pictured, the shadow of the Blue Ghost lander is visible on the cratered lunar surface, while the glowing orb of the planet Earth hovers just over the horizon. Goals for future robotic Blue Ghost landers include supporting lunar astronauts in NASA's Artemis program, with Artemis III currently scheduled to land humans back on the Moon in 2027.
 
-![The Hubble Ultra Deep Field in Light and Sound](https://apod.nasa.gov/apod/image/1803/AstroSoM/hudf.html)
+![Blue Ghost on the Moon](https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_960.jpg)
 
-**Want the HD version?** [Click here!](HD Image URL not provided)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_4096.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀
-<p>Tonight, there will be a conjunction of the Moon and Venus. The pair will share the same right ascension and make a close approach at the same time. They will be approximately six degrees apart and low in the western sky.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/02/mar-1.jpg" alt=""/></p>
-<p>There’s a relatively short window to see these two solar system objects together as they will be setting between 7:45pm and 8:00pm, only being visible for around two hours at the most.</p>
+<p>Did you know there is a dwarf planet that resides in the Asteroid Belt between Mars and Jupiter? It’s called Ceres and it accounts for 25% of the total mass of the Asteroid Belt.</p>
+<p>Ceres was discovered in 1801, and was originally announced as a planet. Although, similar to Pluto, after further discoveries it was reclassified as a dwarf planet. Ceres is also the only dwarf planet not found beyond Neptune.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/02/mar-2.jpg" alt=""/></p>
+<p>This image of the surface of Ceres was taken by the spacecraft <i>Dawn</i> that visited the dwarf planet in 2015, and another asteroid belt object of interest, known as Vesta, in 2012. <i>Dawn</i> has since been retired and now sits in a stable orbit around Ceres.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-1-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-2-2025/)
