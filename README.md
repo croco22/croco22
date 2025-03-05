@@ -1,20 +1,20 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** A Quadruple Alignment over Italy  
-📅 **Date:** March 4, 2025  
+🔭 **Title:** Seven Sisters versus California  
+📅 **Date:** March 5, 2025  
 📸 **Image Credit:** 
-Valerio Minato
+Todd Anderson
   
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Why does this Moon look so unusual?  A key reason is its vivid red color. The color is caused by the deflection of blue light by Earth's atmosphere -- the same reason that the daytime sky appears blue.  The Moon also appears unusually distorted.  Its strange structuring is an optical effect arising from layers in the Earth's atmosphere that refract light differently due to sudden differences in temperature or pressure.  A third reason the Moon looks so unusual is that there is, by chance, an airplane flying in front. The featured picturesque gibbous Moon was captured about two weeks ago above Turin, Italy. Our familiar hovering sky orb was part of an unusual quadruple alignment that included two historic ground structures: the Sacra di San Michele on the near hill and Basilica of Superga just beyond.   Your Sky Surprise: What picture did APOD feature on your friend's birthday? (post 1995)
+On the right, dressed in blue, is the Pleiades.  Also known as the Seven Sisters and M45, the Pleiades is one of the brightest and most easily visible open clusters on the sky. The Pleiades contains over 3,000 stars, is about 400 light years away, and only 13 light years across. Surrounding the stars is a spectacular blue reflection nebula made of fine dust.  A common legend is that one of the brighter stars faded since the cluster was named. On the left, shining in red, is the California Nebula.  Named for its shape, the California Nebula is much dimmer and hence harder to see than the Pleiades.  Also known as NGC 1499, this mass of red glowing hydrogen gas is about 1,500 light years away. Although about 25 full moons could fit between them, the featured wide angle, deep field image composite has captured them both.  A careful inspection of the deep image will also reveal the star forming region IC 348 and the molecular cloud LBN 777 (the Baby Eagle Nebula).    Jump Around the Universe: Random APOD Generator
 
-![A Quadruple Alignment over Italy](https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg)
+![Seven Sisters versus California](https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/QuadMoon_Minato_960.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_9953.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀
-<p>On this date in 1972, the American probe <em>Pioneer 10</em> launched using a three-stage version of the Atlas-Centaur launch vehicle. The probe reached a maximum escape velocity of 32,110 miles per hour. This made it the fastest human-made object in existence, up to that point.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/02/mar-3.jpg" alt=""/></p>
-<p>The image on the left is of the launch of <em>Pioneer 10</em> aboard the Atlas-Centaur launch vehicle in Cape Canaveral, FL in 1972. The image on the right is Jupiter taken by the <em>Pioneer 10</em> spacecraft as it flew by in 1973, before performing its slingshot maneuver that would give it enough speed to take it out of the solar system.</p>
+<p>Getting away from city lights is important to see the night sky at its best. In optimum conditions, an observer can see over 2,000 stars with the unaided eye. Although, the estimated number for total naked eye stars is 10,000. For this difference you must take into account that in one given night, you are only seeing a particular section of the celestial sphere.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/02/mar-4.jpg" alt=""/></p>
+<p>There are lots of places in Missouri that have darker skies than those of the big cities. This light pollution map shows where the best dark skies can be found in the state. Areas of pink and red are where light pollution is worse. Areas of blue and grey are where the skies will be the darkest.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-3-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-4-2025/)
