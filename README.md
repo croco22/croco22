@@ -1,20 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Seven Sisters versus California  
-📅 **Date:** March 5, 2025  
-📸 **Image Credit:** 
-Todd Anderson
-  
+🔭 **Title:** Starburst Galaxy Messier 94  
+📅 **Date:** March 6, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-On the right, dressed in blue, is the Pleiades.  Also known as the Seven Sisters and M45, the Pleiades is one of the brightest and most easily visible open clusters on the sky. The Pleiades contains over 3,000 stars, is about 400 light years away, and only 13 light years across. Surrounding the stars is a spectacular blue reflection nebula made of fine dust.  A common legend is that one of the brighter stars faded since the cluster was named. On the left, shining in red, is the California Nebula.  Named for its shape, the California Nebula is much dimmer and hence harder to see than the Pleiades.  Also known as NGC 1499, this mass of red glowing hydrogen gas is about 1,500 light years away. Although about 25 full moons could fit between them, the featured wide angle, deep field image composite has captured them both.  A careful inspection of the deep image will also reveal the star forming region IC 348 and the molecular cloud LBN 777 (the Baby Eagle Nebula).    Jump Around the Universe: Random APOD Generator
+Beautiful island universe Messier 94 lies a mere 15 million light-years distant in the northern constellation of the hunting dogs, Canes Venatici. A popular target for earth-based astronomers, the face-on spiral galaxy is about 30,000 light-years across, with spiral arms sweeping through the outskirts of its broad disk. But this Hubble Space Telescope field of view spans about 7,000 light-years or so across M94's central region. The sharp close-up examines the galaxy's compact, bright nucleus and prominent inner dust lanes, surrounded by a remarkable bluish ring of young, massive stars. The massive stars in the ring appear to be less than about 10 million years old, indicating the galaxy experienced a corresponding well-defined era of rapid star formation. As a result, while the small, bright nucleus is typical of the Seyfert class of active galaxies, M94 is also known as a starburst galaxy. Because M94 is relatively nearby, astronomers can explore in detail reasons for the galaxy's burst of star formation.  Today's Coverage: Moon Landing
 
-![Seven Sisters versus California](https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_960.jpg)
+![Starburst Galaxy Messier 94](https://apod.nasa.gov/apod/image/2503/M94_hst1542a.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/California2Pleiades_Anderson_9953.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/M94_hst1542a_1280.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀
-<p>Getting away from city lights is important to see the night sky at its best. In optimum conditions, an observer can see over 2,000 stars with the unaided eye. Although, the estimated number for total naked eye stars is 10,000. For this difference you must take into account that in one given night, you are only seeing a particular section of the celestial sphere.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/02/mar-4.jpg" alt=""/></p>
-<p>There are lots of places in Missouri that have darker skies than those of the big cities. This light pollution map shows where the best dark skies can be found in the state. Areas of pink and red are where light pollution is worse. Areas of blue and grey are where the skies will be the darkest.</p>
+<p>Tonight, the Moon, the Pleiades star cluster and Jupiter will be close together in the sky. The Moon will be one day from its first quarter phase for this cycle. On the eastern side of the Moon, you will find Jupiter and on the western side of the Moon you will find the Pleiades star cluster.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-5.jpg" alt=""/></p>
+<p>The reason why we find Jupiter and the Moon in Taurus is because the bull is a zodiac constellation. The zodiac represent what’s known as the plane of the ecliptic, or essentially the plane of the solar system. All the large solar system objects, such as the Earth, Moon and other planets, fall along a very particular plane in space. That plane is represented by the 12 zodiac constellations here on Earth.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-4-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-5-2025/)
