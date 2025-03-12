@@ -1,19 +1,24 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** NGC 1672: Barred Spiral Galaxy from Hubble  
-📅 **Date:** March 11, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** NGC 772: The Fiddlehead Galaxy  
+📅 **Date:** March 12, 2025  
+📸 **Image Credit:** 
+Jean-François Bax & Serge Brunier,  
+OCA/C2PU; 
+Text: 
+Ogetay Kayali 
+(Michigan Tech U.)
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Many spiral galaxies have bars across their centers.  Even our own Milky Way Galaxy is thought to have a modest central bar. Prominently barred spiral galaxy NGC 1672, featured here, was captured in spectacular detail in an image taken by the orbiting Hubble Space Telescope. Visible are dark filamentary dust lanes, young clusters of bright blue stars, red emission nebulas of glowing hydrogen gas, a long bright bar of stars across the center, and a bright active nucleus that likely houses a supermassive black hole.  Light takes about 60 million years to reach us from NGC 1672, which spans about 75,000 light years across. NGC 1672, which appears toward the constellation of the Dolphinfish (Dorado), has been studied to find out how a spiral bar contributes to star formation in a galaxy's central regions.
+Why does this galaxy look like a curly vegetable?  The Fiddlehead spiral galaxy likely gets its distorted spiral appearance from a gravitational interaction with its close-by elliptical companion NGC 770, seen just below.  Cataloged as NGC 772 and Arp 78, the Fiddlehead spans over 200,000 light years, is a nearby 100 million light years beyond the stars of our Milky Way galaxy, and is visible toward the constellation of the Ram (Aries).  But in the featured image, the Fiddlehead appears to have another companion -- one with a long and fuzzy tail: Comet 43P/Wolf-Harrington.  Though the comet appears to be aimed straight at the massive galaxy, it is actually much closer to us, residing only light minutes away -- well within our Solar System.  The comet will never reach the distant spiral galaxy, nor is it physically related to it.  By a fortunate trick of perspective, though, these two cosmic wonders briefly share the same frame taken late last year from Calern, France.
 
-![NGC 1672: Barred Spiral Galaxy from Hubble](https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_1080.jpg)
+![NGC 772: The Fiddlehead Galaxy](https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_1080.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/NGC1672B_Hubble_4000.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_4724.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀
-<p>On this date in 2006, the Mars Reconnaissance Orbiter (MRO) arrived at Mars, successfully completing its orbit insertion. The MRO is still in operation, and continues to send back data on the planet’s atmosphere, surface, and subsurface. The focus of this mission is to better understand the history of water on the Red Planet. Scientists have recently used MRO data to propose that water existed on Mars as recently as 2 billion years ago – rather than 3 billion years ago, as has been previously believed.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-10.jpg" alt=""/></p>
-<p>These three images represent views of Mars taken by the MRO. The left image is of Mars’ moon Phobos from around 4,200 miles away. Next, the middle image shows tectonic fractures found within the Candor Chasma region of Valles Marineris. A canyon on Mars that showcases erosion processes on the surface. Finally, the right image is of Victoria crater, an impact crater that was visited by the <em>Opportunity</em> rover, which took over 21 months for the rover to reach. In fact, at the “ten o’clock” position, <em>Opportunity</em> can be seen as a teeny dot at the edge of the crater. All three photos were taken by the MRO’s HiRISE camera.</p>
-<p>To zoom-in on Opportunity, visit the image here: <a href="https://en.wikipedia.org/wiki/Mars_Reconnaissance_Orbiter#/media/File:Victoria_crater_from_HiRise.jpg" rel="noopener noreferrer nofollow" target="_blank">MRO HiRISE Victoria Crater</a></p>
+<p>On this date in 1960, NASA launched the <i>Pioneer V </i>spacecraft on its journey to explore the space between Earth and Venus. The last scientific measurements were transmitted back to Earth on June 26, 1960. Although the probe only transmitted sporadically for three and a half months, at almost 22.5 million miles in space, <em>Pioneer V</em> was by far the most successful space probe yet launched.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-11.jpg" alt=""/></p>
+<p>One of the main achievements of <i>Pioneer V </i>was confirming the existence of interplanetary magnetic fields. This image shows the <i>Pioneer V </i>probe with test equipment before launch sometime between 1959 and 1960.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-10-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-11-2025/)
