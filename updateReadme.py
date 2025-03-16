@@ -61,14 +61,18 @@ date_object = datetime.strptime(date_raw, "%Y-%m-%d")
 date_str = date_object.strftime("%B %#d, %Y")
 slsc_date = date_object.strftime("%B-%#d-%Y").lower()
 
-# Try to get fact for today, if not available try previous day
-fact, source = get_fact_for_date(date_object)
-if not fact:
-    previous_date = date_object - timedelta(days=1)
+# Try to get fact for today, if not available try previous days
+offset = 0
+fact, source = None, None
+
+while not fact:
+    previous_date = date_object - timedelta(days=offset)
     slsc_date = previous_date.strftime("%B-%#d-%Y").lower()
     fact, source = get_fact_for_date(slsc_date)
-    if not fact:
-        exit("No fact available for today or previous day.")
+    if fact: break
+    else: offset += 1
+
+offset_text = f"({offset} day{'s' if offset > 1 else ''} offset since no new article has been published yet)" if offset > 0 else ""
 
 with open('readmeTemplate.md', 'r', encoding='utf-8') as file:
     markdown_content = file.read()
@@ -82,6 +86,7 @@ markdown_content = markdown_content.replace('{{ url }}', url)
 markdown_content = markdown_content.replace('{{ hdurl }}', hdurl)
 markdown_content = markdown_content.replace('{{ fact }}', fact)
 markdown_content = markdown_content.replace('{{ source }}', source)
+markdown_content = markdown_content.replace('{{ offset }}', offset_text)
 
 with open('README.md', 'w', encoding='utf-8') as file:
     file.write(markdown_content)

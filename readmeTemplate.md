@@ -10,7 +10,7 @@
 
 **Want the HD version?** [Click here!]({{ hdurl }})
 
-## Astronomy Fact of the Day 👩‍🚀🚀
+## Astronomy Fact of the Day 👩‍🚀🚀 {{ offset }}
 {{ fact }}
 
 **Source**: [Saint Louis Science Center]({{ source }})
