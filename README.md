@@ -1,16 +1,19 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Venus and the Triply Ultraviolet Sun  
-📅 **Date:** March 16, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** Thor's Helmet  
+📅 **Date:** March 17, 2025  
+📸 **Image Credit:** 
+Brian Hopkins 
+(East Coast Astronomer)
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-This was a very unusual type of solar eclipse.  Typically, it is the Earth's Moon that eclipses the Sun.  In 2012, though, the planet Venus took a turn.  Like a solar eclipse by the Moon, the phase of Venus became a continually thinner crescent as Venus became increasingly better aligned with the Sun.  Eventually the alignment became perfect and the phase of Venus dropped to zero.  The dark spot of Venus crossed our parent star.  The situation could technically be labeled a Venusian annular eclipse with an extraordinarily large ring of fire.  Pictured here during the occultation, the Sun was imaged in three colors of ultraviolet light by the Earth-orbiting Solar Dynamics Observatory, with the dark region toward the right corresponding to a coronal hole. Hours later, as Venus continued in its orbit, a slight crescent phase appeared again.  The next Venusian transit across the Sun will occur in 2117.
+Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.
 
-![Venus and the Triply Ultraviolet Sun](https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg)
+![Thor's Helmet](https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_3888.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (2 days offset since no new article has been published yet)
+## Astronomy Fact of the Day 👩‍🚀🚀 (3 days offset since no new article has been published yet)
 <p>It is possible to see satellites in the night sky. Some, like the International Space Station, can appear even brighter than some stars. In fact, tonight there will be a pass of the international space station from the WSW to the NE, taking almost seven minutes to move across the sky.</p>
 <p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-15.jpg" alt=""/></p>
 <p>The space station will reach an apparent magnitude of -3.0 during this pass, which will put it in between the brightness values of Venus and Jupiter. Venus will be the brightest point of light at -4.1, followed by the ISS, then Jupiter next at a magnitude of -2.1. The larger the negative number, the brighter the object.</p>
