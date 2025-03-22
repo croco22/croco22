@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** The Leo Trio  
-📅 **Date:** March 21, 2025  
-📸 **Image Credit:** Rabeea Alkuwari  
+🔭 **Title:** SuperCam Target on Ma'az  
+📅 **Date:** March 22, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-This popular group leaps into the early evening sky around the March equinox and the northern hemisphere spring.  Famous as the Leo Triplet, the three magnificent galaxies found in the prominent constellation Leo gather here in one astronomical field of view. Crowd pleasers when imaged with even modest telescopes, they can be introduced individually as NGC 3628 (bottom left), M66 (middle right), and M65 (top center). All three are large spiral galaxies but tend to look dissimilar, because their galactic disks are tilted at different angles to our line of sight. NGC 3628, also known as the Hamburger Galaxy, is temptingly seen edge-on, with obscuring dust lanes cutting across its puffy galactic plane. The disks of M66 and M65 are both inclined enough to show off their spiral structure.  Gravitational interactions between galaxies in the group have left telltale signs, including the tidal tails and warped, inflated disk of NGC 3628 and the drawn out spiral arms of M66. This gorgeous view of the region spans over 1 degree (two full moons) on the sky. Captured with a telescope from Sawda Natheel, Qatar, planet Earth, the frame covers over half a million light-years at the Leo Trio's estimated 30 million light-year distance.
+What's the sound of one laser zapping? There's no need to consult a Zen master to find out, just listen to the first acoustic recording of laser shots on Mars. On Mars Rover Perseverance mission sol 12 (March 2, 2021) the SuperCam instrument atop the rover's mast zapped a rock dubbed Ma'az 30 times from a range of about 3.1 meters. Its microphone recorded the soft staccato popping sounds of the rapid series of SuperCam laser zaps. Shockwaves created in the thin Martian atmosphere as bits of rock are vaporized by the laser shots make the popping sounds, sounds that offer clues to the physical structure of the target. This SuperCam close-up of the Ma'az target region is 6 centimeters (2.3 inches) across. Ma'az means Mars in the Navajo language.
 
-![The Leo Trio](https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio1024.JPG)
+![SuperCam Target on Ma'az](https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/image_1236LeoTrio.JPG)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/pia24493-2-1041.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (4 days offset since no new article has been published yet)
-<p>Tonight, the Moon will be at both its aphelion and apogee points of its orbit. This means that the Moon will be at its farther distance from the Earth and the Sun for this current lunar cycle.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-17.jpg" alt=""/></p>
-<p>Aphelion is in reference to the distance from the Sun, as -helion stems from the Greek word “helios”, which is the ancient Greek personification of the Sun. Apogee is in reference to the distance from the Earth, as –gee or –ge stems from the Greek word “Gaia”, which is the ancient Greek personification of the Earth. This difference in orbit it typically not enough to distinguish in our eyes here on Earth.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
+<p>Tomorrow morning around 5:00am, the last quarter moon will be visible in the summer zodiac constellation of Sagittarius the Archer.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-21.jpg" alt=""/></p>
+<p>The Moon will continue to be visible in the early morning, even after sunrise. It will be setting in the west around 11:30am.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-17-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-21-2025/)
