@@ -1,20 +1,22 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** A Blue Banded Blood Moon  
-📅 **Date:** March 25, 2025  
+🔭 **Title:** Star Formation in the Pacman Nebula  
+📅 **Date:** March 26, 2025  
 📸 **Image Credit:** 
-Zixiong Jin
+Juan Montilla 
+(AAE)
   
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week's lunar eclipse, however -- taken from Norman, Oklahoma (USA) -- has been digitally processed to exaggerate  the colors.  The gray color on the upper right of the top lunar image is the Moon's natural color, directly illuminated by sunlight. The lower parts of the Moon on all three images are not directly lit by the Sun since it is being eclipsed -- it is in the Earth's shadow. It is faintly lit, though, by sunlight that has passed deep through Earth's atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth's sunsets are red: because air scatters away more blue light than red. The unusual purple-blue band visible on the upper right of the top and middle images is different -- its color is augmented by sunlight that has passed high through Earth's atmosphere, where red light is better absorbed by ozone than blue.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
+You'd think the Pacman Nebula would be eating stars, but actually it is forming them. Within the nebula, a cluster's young, massive stars are powering the pervasive nebular glow. The eye-catching shapes looming in the featured portrait of NGC 281 are sculpted dusty columns and dense Bok globules seen in silhouette, eroded by intense, energetic winds and radiation from the hot cluster stars. If they survive long enough, the dusty structures could also be sites of future star formation. Playfully called the Pacman Nebula because of its overall shape, NGC 281 is about 10,000 light-years away in the constellation Cassiopeia. This sharp composite image was made through narrow-band filters in Spain in mid 2024. It combines emissions from the nebula's hydrogen and oxygen atoms to synthesize red, green, and blue colors. The scene spans well over 80 light-years at the estimated distance of NGC 281.
 
-![A Blue Banded Blood Moon](https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg)
+![Star Formation in the Pacman Nebula](https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1080.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_2700.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1500.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the Beehive Cluster (M44), a popular spring deep sky object, is placed well in the sky around 9:00pm.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-24.jpg" alt=""/></p>
-<p>The Beehive Cluster is found in the middle of the zodiac constellation Cancer the Crab. The Crab is found in between the zodiac patterns of Gemini the Twins and Leo the Lion. M44 is an example of an open star cluster which is a cluster that is made up of a tight knit group of stars that are all relatively young and around the same age. The Beehive Cluster is also one of the nearest open clusters to the Earth, as it sits about 610 lightyears away.</p>
+<p>On this date in 1655, Dutch astronomer Christiaan Huygens discovered Saturn’s moon Titan. It wasn’t until 1847 that this moon received its official name of Titan. It was named by John Herschel, who was the son of William Herschel – discoverer of Saturn’s moons Mimas and Enceladus.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-25.jpg" alt=""/></p>
+<p>The image on the left is a portrait of Christiaan Huygens painted in 1671 by Dutch painter Caspar Netscher.</p>
+<p>The image on the right is a mosaic of images of Titan’s surface taken by the <i>Huygen</i><i>s</i> probe, named after Titan’s discoverer, as it descended to the surface. The <i>Huygens</i> probe was the first lander to touch down on a surface in the outer solar system beyond Mars. The probe drifted for two hours taking photographs and measurements of the lower atmospheric composition of Titan to be transmitted back to Earth.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-24-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-25-2025/)
