@@ -1,22 +1,17 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Star Formation in the Pacman Nebula  
-📅 **Date:** March 26, 2025  
-📸 **Image Credit:** 
-Juan Montilla 
-(AAE)
-  
+🔭 **Title:** Messier 81  
+📅 **Date:** March 27, 2025  
+📸 **Image Credit:** Lorand Fenyes  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-You'd think the Pacman Nebula would be eating stars, but actually it is forming them. Within the nebula, a cluster's young, massive stars are powering the pervasive nebular glow. The eye-catching shapes looming in the featured portrait of NGC 281 are sculpted dusty columns and dense Bok globules seen in silhouette, eroded by intense, energetic winds and radiation from the hot cluster stars. If they survive long enough, the dusty structures could also be sites of future star formation. Playfully called the Pacman Nebula because of its overall shape, NGC 281 is about 10,000 light-years away in the constellation Cassiopeia. This sharp composite image was made through narrow-band filters in Spain in mid 2024. It combines emissions from the nebula's hydrogen and oxygen atoms to synthesize red, green, and blue colors. The scene spans well over 80 light-years at the estimated distance of NGC 281.
+One of the brightest galaxies in planet Earth's sky is similar in size to our Milky Way Galaxy: big, beautiful Messier 81. Also known as NGC 3031 or Bode's galaxy for its 18th century discoverer, this grand spiral can be found toward the northern constellation of Ursa Major, the Great Bear. The sharp, detailed telescopic view reveals M81's bright yellow nucleus, blue spiral arms, pinkish starforming regions, and sweeping cosmic dust lanes. But some dust lanes actually run through the galactic disk (left of center), contrary to other prominent spiral features. The errant dust lanes may be the lingering result of a close encounter between M81 and the nearby galaxy M82 lurking outside of this frame. Scrutiny of variable stars in M81 has yielded a well-determined distance for an external galaxy -- 11.8 million light-years.
 
-![Star Formation in the Pacman Nebula](https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1080.jpg)
+![Messier 81](https://apod.nasa.gov/apod/image/2503/291_lorand_fenyes_m81_kicsi1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1500.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/291_lorand_fenyes_m81_kicsi.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>On this date in 1655, Dutch astronomer Christiaan Huygens discovered Saturn’s moon Titan. It wasn’t until 1847 that this moon received its official name of Titan. It was named by John Herschel, who was the son of William Herschel – discoverer of Saturn’s moons Mimas and Enceladus.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-25.jpg" alt=""/></p>
-<p>The image on the left is a portrait of Christiaan Huygens painted in 1671 by Dutch painter Caspar Netscher.</p>
-<p>The image on the right is a mosaic of images of Titan’s surface taken by the <i>Huygen</i><i>s</i> probe, named after Titan’s discoverer, as it descended to the surface. The <i>Huygens</i> probe was the first lander to touch down on a surface in the outer solar system beyond Mars. The probe drifted for two hours taking photographs and measurements of the lower atmospheric composition of Titan to be transmitted back to Earth.</p>
+<p>On this date in 1996, the comet Hyakutake made its closest approach to Earth, passing just 0.1 AU away. This comet was discovered on January 31, 1996, and passed by Earth only a few months later. One of the most surprising discoveries made during this approach was the emission of X-rays, which had never been detected from a comet before.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-26.jpg" alt=""/></p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-25-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-26-2025/)
