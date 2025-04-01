@@ -1,19 +1,24 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Parker: The Solar System from Near the Sun  
-📅 **Date:** March 31, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** A Double Sunrise from a Partial Eclipse  
+📅 **Date:** April 1, 2025  
+📸 **Image Credit:** 
+Jason Kurth;
+Music: 
+House of the Rising Sun 
+(Sebastia McQueen via SoundCloud)
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-If you watch long enough, a comet will appear.  Before then, you will see our Solar System from inside the orbit of Mercury as recorded by NASA's Parker Solar Probe looping around the Sun. The video captures coronal streamers into the solar wind, a small Coronal Mass Ejection, and planets including, in order of appearance, Mercury, Venus, Saturn, Earth, Mars, and Jupiter. Between the emergence of Earth and Mars, Comet Tempel 1 appears with a distinctive tail.  The continuous fleeting streaks are high energy particles from the Sun impacting Parker's sideways looking camera.  The featured time-lapse video was taken last year during Encounter 21, Parker's 21st close approach to the Sun.  Studying data and images from Parker are delivering a better understanding of the dynamic Sun's effects on Earth's space weather as well as humanity's power grids, spacecraft, and space-faring astronauts.   Growing Gallery: Partial Solar Eclipse of 2025 March
+Can the Sun appear to rise twice at the same time? This was just the case a few days ago from Les Escoumins, Quebec, Canada as our Solar System's bright central orb rose just as it was being partially eclipsed by the Moon. The featured video shows this unusual double-sunrise in real time and being reflected by the St. Lawrence River. Soon after the initial two spots of light appear over distant clouds, what appears to be bright horns become visible -- which are really just parts of the Sun not being eclipsed. Soon, the entire eclipsed Sun is visible above the horizon.  In all, this broken sunrise took less than two minutes during a partial eclipse that lasted many times longer.   Although the Moon circles the Earth once a month (moon-th), it does not always eclipse the Sun because its tilted orbit usually takes it above or below.    Gallery: Partial Solar Eclipse of 2025 March
 
-![Parker: The Solar System from Near the Sun](https://www.youtube.com/embed/YW1yQt3K_YY)
+![A Double Sunrise from a Partial Eclipse](https://www.youtube.com/embed/oTkbHJsqCZM?rel=0)
 
 **Want the HD version?** [Click here!](HD Image URL not provided)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Did you know there is a class of exoplanets known as Hot Jupiters? These exoplanets are gas giants similar to Jupiter in our solar system, but they have very short orbital periods around their stars (P &lt; 10 days). This would make them much hotter than our Jupiter due to their proximity to their stars.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-30.jpg" alt=""/></p>
-<p>This illustration is an artist’s interpretation of a Hot Jupiter orbiting close to its star.</p>
-<p>When these exoplanets pass in front of their parent stars, we can use highly sensitive telescopes, such as ESO’s Very Large Telescope, to view the starlight passing through the planet’s atmosphere. From this we can learn what chemical elements make up the planet by looking at how the starlight is filtered through the molecules.</p>
+<p>Tonight, the dwarf planet Makemake will be at opposition in the constellation of Coma Berenices, 20 years to the day after its discovery. This minor planet sits 4.82 billion miles from the Earth and will have a magnitude of 17.0. This means you will need a larger telescope to view this Kuiper Belt object.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-31.jpg" alt=""/></p>
+<p>The name Makemake comes from the indigenous Rapa Nui people of Easter Island. Makemake is the name of the creator of humanity and god of fertility in the mythology of the Rapa Nui. This continued the millennium old tradition of naming planets after deities of mythology.</p>
+<p>A deity from Rapa Nui mythology was chosen due to the dwarf planet being discovered shortly after Easter on March 31st, 2005. Its codename among astronomers before being announced to the public was “Easterbunny”.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-30-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-31-2025/)
