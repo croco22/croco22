@@ -1,24 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** A Double Sunrise from a Partial Eclipse  
-📅 **Date:** April 1, 2025  
-📸 **Image Credit:** 
-Jason Kurth;
-Music: 
-House of the Rising Sun 
-(Sebastia McQueen via SoundCloud)
-  
+🔭 **Title:** Jupiter and Ring in Infrared from Webb  
+📅 **Date:** April 2, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Can the Sun appear to rise twice at the same time? This was just the case a few days ago from Les Escoumins, Quebec, Canada as our Solar System's bright central orb rose just as it was being partially eclipsed by the Moon. The featured video shows this unusual double-sunrise in real time and being reflected by the St. Lawrence River. Soon after the initial two spots of light appear over distant clouds, what appears to be bright horns become visible -- which are really just parts of the Sun not being eclipsed. Soon, the entire eclipsed Sun is visible above the horizon.  In all, this broken sunrise took less than two minutes during a partial eclipse that lasted many times longer.   Although the Moon circles the Earth once a month (moon-th), it does not always eclipse the Sun because its tilted orbit usually takes it above or below.    Gallery: Partial Solar Eclipse of 2025 March
+Why does Jupiter have rings?  Jupiter's main ring was discovered in 1979 by NASA's passing Voyager 1 spacecraft, but its origin was then a mystery.  Data from NASA's Galileo spacecraft that orbited Jupiter from 1995 to 2003, however, confirmed the hypothesis that this ring was created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Metis, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit. The featured image of Jupiter in infrared light by the James Webb Space Telescope shows not only Jupiter and its clouds, but this ring as well. Jupiter's Great Red Spot (GRS) -- in comparatively light color on the right, Jupiter's large moon Europa -- in the center of diffraction spikes on the left, and Europa's shadow -- next to the GRS -- are also visible. Several features in the image are not yet well understood, including the seemingly separated cloud layer on Jupiter's right limb.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-![A Double Sunrise from a Partial Eclipse](https://www.youtube.com/embed/oTkbHJsqCZM?rel=0)
+![Jupiter and Ring in Infrared from Webb](https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_1080.jpg)
 
-**Want the HD version?** [Click here!](HD Image URL not provided)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_2429.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the dwarf planet Makemake will be at opposition in the constellation of Coma Berenices, 20 years to the day after its discovery. This minor planet sits 4.82 billion miles from the Earth and will have a magnitude of 17.0. This means you will need a larger telescope to view this Kuiper Belt object.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/mar-31.jpg" alt=""/></p>
-<p>The name Makemake comes from the indigenous Rapa Nui people of Easter Island. Makemake is the name of the creator of humanity and god of fertility in the mythology of the Rapa Nui. This continued the millennium old tradition of naming planets after deities of mythology.</p>
-<p>A deity from Rapa Nui mythology was chosen due to the dwarf planet being discovered shortly after Easter on March 31st, 2005. Its codename among astronomers before being announced to the public was “Easterbunny”.</p>
+<p>On this day in 1899, American engineer James S. McDonnell was born. McDonnell was the president of the St. Louis based McDonnell Aircraft Corporation from 1939 to 1972. In addition to being one of the primary aircraft providers for the U.S. Military, McDonnell Aircraft was contracted to build the Mercury and Gemini space capsules.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/apr-1.jpg" alt=""/></p>
+<p>During the construction of the Saint Louis Planetarium from the late 1950s to the early 1960s, McDonnell donated $200,000 for necessary equipment, such as the planetariums first star projector. The building would then be named after him in 1964. So, every time you visit the Saint Louis Science Center and go to a planetarium show, you’re visiting the James S. McDonnell Planetarium!</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-march-31-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-1-2025/)
