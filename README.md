@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Hickson 44 in Leo  
-📅 **Date:** April 4, 2025  
-📸 **Image Credit:** Jiang Wu  
+🔭 **Title:** The Gargoyles' Eclipse  
+📅 **Date:** April 5, 2025  
+📸 **Image Credit:** Bertrand Kulik  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Scanning the skies for galaxies, Canadian astronomer Paul Hickson and colleagues identified some 100 compact groups of galaxies, now appropriately called Hickson Compact Groups. The four prominent galaxies seen in this intriguing telescopic skyscape are one such group, Hickson 44. The galaxy group is about 100 million light-years distant, far beyond the spiky foreground Milky Way stars, toward the constellation Leo. The two spiral galaxies in the center of the image are edge-on NGC 3190 with its distinctive, warped dust lanes, and S-shaped NGC 3187. Along with the bright elliptical, NGC 3193 (above and left) they are also known as Arp 316. The spiral toward the lower right corner is NGC 3185, the 4th member of the Hickson group. Like other galaxies in Hickson groups, these show signs of distortion and enhanced star formation, evidence of a gravitational tug of war that will eventually result in galaxy mergers on a cosmic timescale. The merger process is now understood to be a normal part of the evolution of galaxies, including our own Milky Way. For scale, NGC 3190 is about 75,000 light-years across at the estimated distance of Hickson 44.
+In dramatic silhouette against a cloudy daytime sky over Paris, France, gargoyles cast their monstrous gaze outward from the west facade of Notre Dame Cathedral.  Taken on March 29, this telephoto snapshot also captures the dramatic silhouette of a New Moon against the bright solar disk in a partial solar eclipse. Happening high in Parisian skies, the partial eclipse was close to its maximum phase of about 23 percent. Occurring near the end of the first eclipse season of 2025, this partial solar eclipse followed the total eclipse of the Full Moon on March 13/14. The upcoming second eclipse season of 2025 will see a total lunar eclipse on September 7/8 and partial solar eclipse on September 21. The partial solar eclipse will be seen only from locations in planet Earth's southern hemisphere.
 
-![Hickson 44 in Leo](https://apod.nasa.gov/apod/image/2504/ARP316_1024.jpg)
+![The Gargoyles' Eclipse](https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/ARP316.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Did you know, you can help NASA make discoveries through their citizen science programs? NASA currently has 31 open projects to choose from and many discoveries have been made through the help of citizen scientists!</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/03/apr-3.jpg" alt=""/></p>
-<p>By working on data released by NASA, citizen scientists can contribute to projects such as spotting clouds on Mars, looking for eclipsing binary stars through telescope data, examining radio signals to help search for intelligent life beyond Earth, and so much more!</p>
+<p>Tonight, there will be a first quarter moon. You can get a good look at the Moon during our Public Telescope Viewing events at the James S. McDonnell Planetarium. From 6:30pm-9:30pm, telescopes will be set out for free viewing of the night sky every first Friday of the month! (weather permitting)</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-4.jpg" alt=""/></p>
+<p>Unfortunately, due to weather conditions, telescope viewing has been cancelled for this evening. But we still have two free star shows tonight, so come on out!</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-3-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-4-2025/)
