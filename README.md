@@ -1,18 +1,19 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Moonquakes Surprisingly Common  
-📅 **Date:** April 6, 2025  
+🔭 **Title:** NGC 4414: A Flocculent Spiral Galaxy  
+📅 **Date:** April 7, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Why are there so many moonquakes?   Analyses of seismometers left on the moon during the Apollo moon landings reveal a surprising number of moonquakes occurring within 100 kilometers of the surface.   In fact, 62 moonquakes were detected in data recorded between 1972 and 1977.   Many of these moonquakes are not only strong enough to move furniture in a lunar apartment, but the stiff rock of the moon continues to vibrate for many minutes, significantly longer than the softer rock earthquakes on Earth.   The cause of the moonquakes remains unknown, but a leading hypothesis include tidal gravity from -- and relative heating by -- our Earth. Regardless of the source, future moon dwellings need to be built to withstand the frequent shakings.   Pictured here, Apollo 11 astronaut Buzz Aldrin stands beside a recently deployed lunar seismometer, looking back toward the lunar landing module.    Explore Your Universe: Random APOD Generator
+How much mass do flocculent spirals hide?  The featured image of flocculent spiral galaxy NGC 4414 was taken with the Hubble Space Telescope to help answer this question. Flocculent spirals -- galaxies without well-defined spiral arms -- are a quite common form of galaxy, and NGC 4414 is one of the closest.  Stars and gas near the visible edge of spiral galaxies orbit the center so fast that the gravity from a large amount of unseen dark matter must be present to hold them together.  Understanding the matter and dark matter distribution of NGC 4414 helps humanity calibrate the rest of the galaxy and, by deduction, flocculent spirals in general.  Further, calibrating the distance to NGC 4414 helps  humanity calibrate the cosmological distance scale of the entire  visible universe.
 
-![Moonquakes Surprisingly Common](https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_960.jpg)
+![NGC 4414: A Flocculent Spiral Galaxy](https://apod.nasa.gov/apod/image/2504/Ngc4414B_Hubble_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_3000.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/Ngc4414B_Hubble_1280.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, there will be a close approach/conjunction of the Moon and Mars. The pair will be seen together in the zodiacal constellation of Gemini the Twins. They will be about one degree apart from each other.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-5.jpg" alt=""/></p>
-<p>If you have a set of binoculars, or even a small telescope, you should be able to get both the Moon and Mars into the same field of view of your instrument! These close approaches of objects are good ways to get more comfortable with telescopes and binoculars.</p>
+<p>Did you know, NASA spends just as much time and effort studying our Earth as it does studying the solar system and beyond? By looking at our Earth from above using satellites, we can get a good look at the “vital signs” of our home, such as air quality, sea levels, and phytoplankton concentrations.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-6.jpg" alt=""/></p>
+<p>The five images above are datasets showing us information about the Earth’s “vital signs”. Each dataset gives us information gathered from satellites and made into a graphic that can be easily understood. So, each dataset is telling us something different about the Earth. The following datasets are:</p>
+<p>These are just of few examples of the datasets provided by NASA satellites. To explore more datasets and learn more about how we monitor the Earth from space, visit NASA’s Eyes on Earth page here: <a href="https://eyes.nasa.gov/apps/earth/#/" rel="noopener noreferrer nofollow" target="_blank">https://eyes.nasa.gov/apps/earth/#/</a></p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-5-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-6-2025/)
