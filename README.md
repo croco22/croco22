@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** The ISS Meets Venus  
-📅 **Date:** April 11, 2025  
-📸 **Image Credit:** A.J. Smadi  
+🔭 **Title:** Moon Near the Edge  
+📅 **Date:** April 12, 2025  
+📸 **Image Credit:** Jordi Coy  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Made with a telescope shaded from bright sunlight by an umbrella, on April 5 a well-planned video captured a crescent Venus shining in clear daytime skies from Shoreline, Washington, USA at 11:57AM Pacific Time. It also caught the International Space Station in this single video frame. In close conjunction with the bright planet, the faint outline of the orbital outpost seen at a range of about 400 kilometers appears to be similar in size to the slender planetary crescent. Of course the ISS is much smaller than Venus. Now appearing as planet Earth's brilliant morning star and climbing above the eastern horizon in predawn skies, inner planet Venus was nearly 45 million kilometers from Shoreline.
+Most of us watch the Moon at night. But the Moon spends nearly as many daylight hours above our horizon, though in bright daytime skies the lunar disk looks pale and can be a little harder to see. Of course in daytime skies the Moon also appears to cycle through its phases, shining by reflected sunlight as it orbits our fair planet. For daytime moonwatchers, the Moon is probably easier to spot when the visible sunlit portion of the lunar disk is large and waxing following first quarter or waning approaching its third quarter phase. And though it might look unusual, a daytime moon is often seen even in urban skies. Captured here in a telephoto snapshot taken on March 12, a waxing daytime Moon is aligned near the edge of a popular observation deck that overlooks New York City's borough of Manahattan.
 
-![The ISS Meets Venus](https://apod.nasa.gov/apod/image/2504/Venus-ISSsingleframe1100c.jpeg)
+![Moon Near the Edge](https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/Venus-ISSsingleframe.jpeg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/PlataformaRecorteHorizontalRedes.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Calling for a chance of showers on Mercury! Since Mercury has a very thin atmosphere, storms like those found on Earth are not present here. Instead, Mercury has a strange weather pattern known as micro-meteor showers. These tiny dust particles consistently bombard the surface on the dawn-side of Mercury as the planet regularly encounters a population of micrometeoroids orbiting the Sun.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-10.jpg" alt=""/></p>
-<p>Using MESSENGER’s Ultraviolet and Visible Spectrometer revealed how these micrometeoroids impact the planets surface throughout a Mercurian day. The presence and concentration of certain elements, such as magnesium and calcium, can help astronomers to understand the shower patterns on the little rocky planet.</p>
+<p>A full moon occurs tomorrow around midnight. April’s full moon is often called the Full Pink Moon as a connection to the flowers in bloom this time of year.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-11.jpg" alt=""/></p>
+<p>Tonight, the Moon will be in the zodiac constellation of Virgo the Maiden. Virgo is distinguishable from the bright blue star, Spica. This star will be just below and slightly left of the Moon tonight.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-10-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-11-2025/)
