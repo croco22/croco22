@@ -1,16 +1,16 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** An Unusual Hole in Mars  
-📅 **Date:** April 13, 2025  
+🔭 **Title:** The Galactic Center in Radio from MeerKAT  
+📅 **Date:** April 14, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What created this unusual hole in Mars? Actually, there are numerous holes pictured in this Swiss cheese-like landscape, with all-but-one of them showing a dusty, dark, Martian terrain beneath evaporating, light, carbon dioxide ice.  The most unusual hole is on the upper right, spans about 100 meters, and seems to punch through to a lower level. Why this hole exists and why it is surrounded by a circular crater remains a topic of speculation, although a leading hypothesis is that it was created by a meteor impact.  Holes such as this are of particular interest because they might be portals to lower levels that extend into expansive underground caves. If so, these naturally occurring tunnels are relatively protected from the harsh surface of Mars, making them relatively good candidates to contain Martian life. These pits are therefore also prime targets for possible future spacecraft, robots, and even human interplanetary explorers.
+What's happening at the center of our galaxy? It's hard to tell with optical telescopes since visible light is blocked by intervening interstellar dust. In other bands of light, though, such as radio, the galactic center can be imaged and shows itself to be quite an interesting and active place.  The featured picture shows an image of our Milky Way's center by the MeerKAT array of 64 radio dishes in South Africa. Spanning four times the angular size of the Moon (2 degrees), the image is impressively vast, deep, and detailed.  Many known sources are shown in clear detail, including many with a prefix of Sgr, since the galactic center is in the direction of the constellation Sagittarius.  In our galaxy's center lies Sgr A, found here in the image center, which houses the Milky Way's central supermassive black hole.  Other sources in the image are not as well understood, including the Arc, just to the left of Sgr A, and numerous filamentary threads. The inset image shows a small patch recently imaged in infrared light with the James Webb Space Telescope to investigate the effects of magnetic fields on star formation.    Open Science: Browse 3,600+ codes in the Astrophysics Source Code Library
 
-![An Unusual Hole in Mars](https://apod.nasa.gov/apod/image/2504/MarsPit_mro_960.jpg)
+![The Galactic Center in Radio from MeerKAT](https://apod.nasa.gov/apod/image/2504/GCenter_MeerKatWebb_1080.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/MarsPit_mro_2628.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/GCenter_MeerKatWebb_7642.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
 <p>Forecast for high heat at Venus! The second planet from the Sun is often referred to as “Earth’s Twin” due to their size, but it couldn’t be more the opposite. Venus is the hottest planet in the solar system due to its thick and crushing atmosphere of sulfuric acids clouds. The average temperature on Venus is 900 degrees Fahrenheit!</p>
 <p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-13.jpg" alt=""/></p>
 <p>This radar image of Venus’ northern hemisphere was taken by the Magellan spacecraft in 1996 with radar technology. Due to the incredibly thick atmosphere that causes the extreme temperatures on Venus, the surface is not visible without the help of imaging technology.</p>
