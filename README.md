@@ -1,19 +1,21 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Planetary Nebula NGC 1514 from Webb  
-📅 **Date:** April 15, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** Halo of the Cat's Eye  
+📅 **Date:** April 16, 2025  
+📸 **Image Credit:** 
+Taavi Niittee  
+(Tõrva Astronomy Club) 
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What happens when a star runs out of nuclear fuel?  For stars like our Sun, the center condenses into a white dwarf while the outer atmosphere is expelled into space to appear as a planetary nebula.  The expelled outer atmosphere of planetary nebula NGC 1514 appears to be a jumble of bubbles -- when seen in visible light.  But the view from the James Webb Space Telescope in infrared, as featured here, confirms a different story: in this light the nebula shows a distinct hourglass shape, which is interpreted as a cylinder seen along a diagonal.  If you look closely at the center of the nebula, you can also see a bright central star that is part of a binary system.  More observations might better reveal how this nebula is evolving and how the central stars are working together to produce the interesting cylinder and bubbles observed.    Jump Around the Universe: Random APOD Generator
+What created the unusual halo around the Cat's Eye Nebula? No one is sure. What is sure is that the Cat's Eye Nebula (NGC 6543) is one of the best known planetary nebulae on the sky.  Although haunting symmetries are seen in the bright central region, this image was taken to feature its intricately structured outer halo, which spans over three light-years across.  Planetary nebulae have long been appreciated as a final phase in the life of a Sun-like star. Only recently however, have some planetaries been found to have expansive halos, likely formed from material shrugged off during earlier puzzling episodes in the star's evolution. While the planetary nebula phase is thought to last for around 10,000 years, astronomers estimate the age of the outer filamentary portions of the Cat's Eye Nebula's halo to be 50,000 to 90,000 years.
 
-![Planetary Nebula NGC 1514 from Webb](https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_960.jpg)
+![Halo of the Cat's Eye](https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_1983.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/CatsEyeWide_Niittee_960.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Today’s forecast calls for rain, snow, sleet, wind, and the works on Earth! Earth has it all when it comes to extreme weather. We experience lots of different storms that range from blizzards and polar vortexes to massive tropical cyclones such as hurricanes. Hurricanes pack the biggest punch when it comes to size. These storms can be hundreds of miles wide in diameter! Hurricanes can also cause incredible destruction and can lead to billions of dollars in damage every year.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-14.jpg" alt=""/></p>
-<p>The most intense hurricane of the 2024 Atlantic Hurricane season was Hurricane Milton. This hurricane ravaged the coasts of the Yucatán Peninsula in Mexico and central Florida from its formation on October 5th to it dissipation on October 12th. Milton caused $34.3 billion dollars in damage and reached Category 5-level winds. Its highest sustained winds reached speeds of 180mph. Consequently, Milton is now tied for the record low pressure reached in the Gulf of Mexico, reaching as low as 895 millibars. Milton is tied with Hurricane Rita of the 2005 Atlantic Hurricane season. This season most notably spawned the devasting Hurricane Katrina which made landfall off the coast of in Louisiana that year.</p>
-<p>The 2024 Atlantic Hurricane season has become the 3rd costliest hurricane season on record and spawned some of the strongest storms ever recorded. Rising sea level temperatures brought on by climate change is increasing the severity and frequency of these record-breaking storms seen all around the world.</p>
+<p>Tonight, the globular cluster Messier 3 will be visible in the eastern sky around 10:00pm. The cluster is found near the bright star Arcturus and in the constellation of Canes Venatici. The cluster sits a distance of 32,600 light-years away from Earth.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-15.jpg" alt=""/></p>
+<p>Messier 3 is considered one of the brightest northern hemisphere globular clusters, just behind Messier 13 found in the summer constellation of Hercules. M3 is also one of the largest globular clusters, containing approximately 500,000 stars and the cluster is estimated to be around 11.4 billion years old.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-14-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-15-2025/)
