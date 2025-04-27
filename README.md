@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Barred Spiral Galaxy NGC 5335  
-📅 **Date:** April 26, 2025  
+🔭 **Title:** IC 418: The Spirograph Nebula  
+📅 **Date:** April 27, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-This stunning portrait of NGC 5335 was captured by the Hubble Space Telescope.  Some 170,000 light-years across and over 200 million light-years away toward the constellation Virgo, the magnificent spiral galaxy is seen face-on in Hubble's view. Within the galactic disk, loose streamers of star forming regions lie along the galaxy's flocculent spiral arms. But the most striking feature of NGC 5335 is its prominent central bar. Seen in about 30 percent of galaxies, including our Milky Way, bar structures are understood to channel material inward toward the galactic center, fueling star formation. Of course, distant background galaxies are easy to spot, scattered around the sharp Hubble image. Launched in 1990, Hubble is now celebrating its 35th year exploring the cosmos from orbit around planet Earth.
+What is creating the strange texture of IC 418?  Dubbed the Spirograph Nebula for its resemblance to drawings from a cyclical drawing tool, planetary nebula IC 418 shows patterns that are not well understood. Perhaps they are related to chaotic winds from the variable central star, which changes brightness unpredictably in just a few hours.  By contrast, evidence indicates that only a few million years ago, IC 418 was probably a well-understood star similar to our Sun.  Only a few thousand years ago, IC 418 was probably a common red giant star.  Since running out of nuclear fuel, though, the outer envelope has begun expanding outward leaving a hot remnant core destined to become a white-dwarf star, visible in the image center. The light from the central core excites surrounding atoms in the nebula causing them to glow. IC 418 lies about 2000 light-years away and spans 0.3 light-years across.  This false-color image taken from the Hubble Space Telescope reveals the unusual details.
 
-![Barred Spiral Galaxy NGC 5335](https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_1024.jpg)
+![IC 418: The Spirograph Nebula](https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/NGC5335heic2505_2048.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_2119.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, Messier 101 will be reaching its highest altitude around midnight. This spiral galaxy found in the tail of Ursa Major is a fun springtime galaxy to track down with a backyard telescope.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-25.jpg" alt=""/></p>
-<p>The pinwheel galaxy is a fan-favorite springtime galaxy to track down in the night sky. Due to its apparent magnitude of 7.9 and its location in the famous asterism of The Big Dipper, this makes M101 one of the easier springtime galaxies. Although, its important to not that while it can be seen through a binoculars or a small telescope, it will require a larger aperture to distinguish the spiral structure.</p>
+<p>Today’s forecast calls for large stinky storms on Uranus. Researchers have discovered that the clouds that make up the storms on Uranus are made of the compound hydrogen-sulfide. You know, the gas that smells like rotten eggs? Feels like the punchline to one big cosmic joke!</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-26-744x599.jpg" alt=""/></p>
+<p>The image of Uranus was captured by the Hubble Space Telescope during its Outer Planet Atmosphere Legacy (OPAL) observing program. Not only do we get a look at the faint ring system around Uranus, but we can see multiple of the smelly storms in question around the mid-latitudes of the northern hemisphere.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-25-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-26-2025/)
