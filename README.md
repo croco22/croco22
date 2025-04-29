@@ -1,18 +1,20 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** IC 418: The Spirograph Nebula  
-📅 **Date:** April 27, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** Saturn's Rings Appear to Disappear  
+📅 **Date:** April 29, 2025  
+📸 **Image Credit:** 
+Natan Fontes
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What is creating the strange texture of IC 418?  Dubbed the Spirograph Nebula for its resemblance to drawings from a cyclical drawing tool, planetary nebula IC 418 shows patterns that are not well understood. Perhaps they are related to chaotic winds from the variable central star, which changes brightness unpredictably in just a few hours.  By contrast, evidence indicates that only a few million years ago, IC 418 was probably a well-understood star similar to our Sun.  Only a few thousand years ago, IC 418 was probably a common red giant star.  Since running out of nuclear fuel, though, the outer envelope has begun expanding outward leaving a hot remnant core destined to become a white-dwarf star, visible in the image center. The light from the central core excites surrounding atoms in the nebula causing them to glow. IC 418 lies about 2000 light-years away and spans 0.3 light-years across.  This false-color image taken from the Hubble Space Telescope reveals the unusual details.
+Where are Saturn's ears? Galileo is credited, in 1610, as the first person to see Saturn's rings. Testing out Lipperhey's recently co-invented telescope, Galileo did not know what they were and so called them "ears".  The mystery deepened in 1612, when Saturn's ears mysteriously disappeared. Today we know exactly what happened: from the perspective of the Earth, Saturn's rings had become too thin to see.  The same drama plays out every 15 years because Saturn, like Earth, undergoes tilt-driven seasons. This means that as Saturn goes around the Sun, its equator and rings can tilt noticeably toward the Sun and inner Solar System, making them easily visible, but from other orbital locations will appear almost not at all.  The featured picture from Brasilia, Brazil shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.   Make Saturn's Rings Musical: Play them like a harp!
 
-![IC 418: The Spirograph Nebula](https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_960.jpg)
+![Saturn's Rings Appear to Disappear](https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/Spirograph_Hubble_2119.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Today’s forecast calls for large stinky storms on Uranus. Researchers have discovered that the clouds that make up the storms on Uranus are made of the compound hydrogen-sulfide. You know, the gas that smells like rotten eggs? Feels like the punchline to one big cosmic joke!</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-26-744x599.jpg" alt=""/></p>
-<p>The image of Uranus was captured by the Hubble Space Telescope during its Outer Planet Atmosphere Legacy (OPAL) observing program. Not only do we get a look at the faint ring system around Uranus, but we can see multiple of the smelly storms in question around the mid-latitudes of the northern hemisphere.</p>
+<p>Tomorrow morning there will be a close approach of Venus, Saturn and Neptune low in the early morning sky. When looking toward the eastern horizon around 5:00am, you’ll only see two of the three planets with your eyes alone because Neptune is not a naked eye planet.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-28.jpg" alt=""/></p>
+<p>When trying to track down Neptune with a telescope this close to sunrise, its always important to remember to never point your telescope at the Sun. Without a specialized solar filter, observing the Sun directly, either with your eyes or a magnifying instrument such as a telescope, can potentially cause vision damage or vision loss. Always observe with caution during twilight or daytime viewing.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-26-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-28-2025/)
