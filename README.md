@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** MESSENGER's Last Day on Mercury  
-📅 **Date:** May 1, 2025  
+🔭 **Title:** Young Star Cluster NGC 346  
+📅 **Date:** May 2, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-The first to orbit inner planet Mercury, the MESSENGER spacecraft came to rest on this region of Mercury's surface on April 30, 2015. Constructed from MESSENGER image and laser altimeter data, the projected scene looks north over the northeastern rim of the broad, lava filled Shakespeare basin. The large, 48 kilometer (30 mile) wide crater Janacek is near the upper left edge. Terrain height is color coded with red regions about 3 kilometers above blue ones. MESSENGER'S final orbit was predicted to end near the center, with the spacecraft impacting the surface at nearly 4 kilometers per second (over 8,700 miles per hour) and creating a new crater about 16 meters (52 feet) in diameter. The impact on the far side of Mercury was not observed by telescopes, but confirmed when no signal was detected from the spacecraft given time to emerge from behind the planet. Launched in 2004, the MErcury Surface, Space ENvironment, GEochemisty and Ranging spacecraft completed over 4,000 orbits after reaching the Solar System's innermost planet in 2011.
+The most massive young star cluster in the Small Magellanic Cloud is NGC 346, embedded in our small satellite galaxy's largest star forming region some 210,000 light-years distant. Of course the massive stars of NGC 346 are short lived, but very energetic.  Their winds and radiation sculpt the edges of the region's dusty molecular cloud triggering star-formation within. The star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. This spectacular infrared view of NGC 346 is from the James Webb Space Telescope's NIRcam. Emission from atomic hydrogen ionized by the massive stars' energetic radiation as well as molecular hydrogen and dust in the star-forming molecular cloud is detailed in pink and orange hues. Webb's sharp image of the young star-forming region spans 240 light-years at the distance of the Small Magellanic Cloud.
 
-![MESSENGER's Last Day on Mercury](https://apod.nasa.gov/apod/image/2505/messengerImpactSite_black600.jpg)
+![Young Star Cluster NGC 346](https://apod.nasa.gov/apod/image/2505/jwst-ngc346-800.png)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/messengerImpactSite_black.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/jwst-ngc346.png)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, a very thin waxing crescent moon and Jupiter will appear low in the western sky together. The pair can be spotted close by after sunset around 8:45pm.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/apr-30.jpg" alt=""/></p>
-<p>Soon, Jupiter will no longer be visible in the evening sky. It is currently located in the winter zodiacal constellation of Taurus the Bull. By early June, the planet will begin to be blocked by buildings or trees before eventually moving behind the Sun.</p>
+<p>The spring asterism known as the Spring Diamond will be highest in the sky around 11:00pm. Made up by the stars Arcturus, Spica, Denebola, and Cor Caroli, this asterism houses some of the most prominent springtime constellations such as Boötes, Virgo, and Leo.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-1.jpg" alt=""/></p>
+<p>Sometimes this asterism can also be known as the spring triangle, if you leave out Cor Caroli in Canes Venatici. The spring triangle might be easier for beginner sky learners, as Cor Caroli is the faintest star of the diamond and belongs to a very small constellation.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-april-30-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-1-2025/)
