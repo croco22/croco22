@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Young Star Cluster NGC 346  
-📅 **Date:** May 2, 2025  
+🔭 **Title:** Titan: Moon over Saturn  
+📅 **Date:** May 3, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-The most massive young star cluster in the Small Magellanic Cloud is NGC 346, embedded in our small satellite galaxy's largest star forming region some 210,000 light-years distant. Of course the massive stars of NGC 346 are short lived, but very energetic.  Their winds and radiation sculpt the edges of the region's dusty molecular cloud triggering star-formation within. The star forming region also appears to contain a large population of infant stars. A mere 3 to 5 million years old and not yet burning hydrogen in their cores, the infant stars are strewn about the embedded star cluster. This spectacular infrared view of NGC 346 is from the James Webb Space Telescope's NIRcam. Emission from atomic hydrogen ionized by the massive stars' energetic radiation as well as molecular hydrogen and dust in the star-forming molecular cloud is detailed in pink and orange hues. Webb's sharp image of the young star-forming region spans 240 light-years at the distance of the Small Magellanic Cloud.
+Like Earth's moon, Saturn's largest moon Titan is locked in synchronous rotation with its planet. This mosaic of images recorded by the Cassini spacecraft in May of 2012 shows its anti-Saturn side, the side always facing away from the ringed gas giant. The only moon in the solar system with a dense atmosphere, Titan is the only solar system world besides Earth known to have standing bodies of liquid on its surface and an earthlike cycle of liquid rain and evaporation. Its high altitude layer of atmospheric haze is evident in the Cassini view of the 5,000 kilometer diameter moon over Saturn's rings and cloud tops. Near center is the dark dune-filled region known as Shangri-La. The Cassini-delivered Huygens probe rests below and left of center, after the most distant landing for a spacecraft from Earth.
 
-![Young Star Cluster NGC 346](https://apod.nasa.gov/apod/image/2505/jwst-ngc346-800.png)
+![Titan: Moon over Saturn](https://apod.nasa.gov/apod/image/2505/PIA19642Titan1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/jwst-ngc346.png)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/PIA19642Titan.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>The spring asterism known as the Spring Diamond will be highest in the sky around 11:00pm. Made up by the stars Arcturus, Spica, Denebola, and Cor Caroli, this asterism houses some of the most prominent springtime constellations such as Boötes, Virgo, and Leo.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-1.jpg" alt=""/></p>
-<p>Sometimes this asterism can also be known as the spring triangle, if you leave out Cor Caroli in Canes Venatici. The spring triangle might be easier for beginner sky learners, as Cor Caroli is the faintest star of the diamond and belongs to a very small constellation.</p>
+<p>Tonight, the asteroid Vesta will be at opposition in the constellation Virgo. The asteroid will rise in the east as the sun sets and reach a magnitude of 5.4.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-2.jpg" alt=""/></p>
+<p>This will be one of the brightest magnitudes Vesta can get to. There are a couple factors going into its brightness tonight. The asteroid is at opposition, meaning it is directly opposite from the Sun in the sky. But along with opposition, Vesta is passing its perigee point, or its closest approach to Earth. These two factors happening at the same time give Vesta its extra bright magnitude. In optimum conditions, a magnitude of 5.4 is bordering the limit to what the naked eye can see (which is around a magnitude of 6.5). Which also means that you won’t need a telescope to see Vesta at opposition! But a pair of binoculars could help with your search!</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-1-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-2-2025/)
