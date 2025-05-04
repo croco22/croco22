@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Titan: Moon over Saturn  
-📅 **Date:** May 3, 2025  
+🔭 **Title:** Spin up of a Supermassive Black Hole  
+📅 **Date:** May 4, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Like Earth's moon, Saturn's largest moon Titan is locked in synchronous rotation with its planet. This mosaic of images recorded by the Cassini spacecraft in May of 2012 shows its anti-Saturn side, the side always facing away from the ringed gas giant. The only moon in the solar system with a dense atmosphere, Titan is the only solar system world besides Earth known to have standing bodies of liquid on its surface and an earthlike cycle of liquid rain and evaporation. Its high altitude layer of atmospheric haze is evident in the Cassini view of the 5,000 kilometer diameter moon over Saturn's rings and cloud tops. Near center is the dark dune-filled region known as Shangri-La. The Cassini-delivered Huygens probe rests below and left of center, after the most distant landing for a spacecraft from Earth.
+How fast can a black hole spin?  If any object made of regular matter spins too fast -- it breaks apart. But a black hole might not be able to break apart -- and its maximum spin rate is really unknown. Theorists usually model rapidly rotating black holes with the Kerr solution to Einstein's General Theory of Relativity, which predicts several amazing and unusual things.  Perhaps its most easily testable prediction, though, is that matter entering a maximally rotating black hole should be last seen orbiting at near the speed of light, as seen from far away. This prediction was tested by NASA's NuSTAR and ESA's XMM satellites by observing the supermassive black hole at the center of spiral galaxy NGC 1365. The near light-speed limit was confirmed by measuring the heating and spectral line broadening of nuclear emissions at the inner edge of the surrounding accretion disk. Pictured here is an artist's illustration depicting an accretion disk of normal matter swirling around a black hole, with a jet emanating from the top. Since matter randomly falling into the black hole should not spin up a black hole this much, the NuSTAR and XMM measurements also validate the existence of the  surrounding accretion disk.   Hole New Worlds: It's Black Hole Week at NASA!
 
-![Titan: Moon over Saturn](https://apod.nasa.gov/apod/image/2505/PIA19642Titan1024.jpg)
+![Spin up of a Supermassive Black Hole](https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/PIA19642Titan.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the asteroid Vesta will be at opposition in the constellation Virgo. The asteroid will rise in the east as the sun sets and reach a magnitude of 5.4.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-2.jpg" alt=""/></p>
-<p>This will be one of the brightest magnitudes Vesta can get to. There are a couple factors going into its brightness tonight. The asteroid is at opposition, meaning it is directly opposite from the Sun in the sky. But along with opposition, Vesta is passing its perigee point, or its closest approach to Earth. These two factors happening at the same time give Vesta its extra bright magnitude. In optimum conditions, a magnitude of 5.4 is bordering the limit to what the naked eye can see (which is around a magnitude of 6.5). Which also means that you won’t need a telescope to see Vesta at opposition! But a pair of binoculars could help with your search!</p>
+<p>The Moon and Mars will make a close approach tonight, appearing less than one degree away from each other.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-3.jpg" alt=""/></p>
+<p>The two will also be passing right in front of the beehive cluster. Through a set of binoculars, you should be able to get all three objects within your field of view, or at least mostly within.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-2-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-3-2025/)
