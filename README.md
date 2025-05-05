@@ -1,18 +1,20 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Spin up of a Supermassive Black Hole  
-📅 **Date:** May 4, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** Planet Lines Across Water  
+📅 **Date:** May 5, 2025  
+📸 **Image Credit:** 
+Jose Antonio Hervas
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-How fast can a black hole spin?  If any object made of regular matter spins too fast -- it breaks apart. But a black hole might not be able to break apart -- and its maximum spin rate is really unknown. Theorists usually model rapidly rotating black holes with the Kerr solution to Einstein's General Theory of Relativity, which predicts several amazing and unusual things.  Perhaps its most easily testable prediction, though, is that matter entering a maximally rotating black hole should be last seen orbiting at near the speed of light, as seen from far away. This prediction was tested by NASA's NuSTAR and ESA's XMM satellites by observing the supermassive black hole at the center of spiral galaxy NGC 1365. The near light-speed limit was confirmed by measuring the heating and spectral line broadening of nuclear emissions at the inner edge of the surrounding accretion disk. Pictured here is an artist's illustration depicting an accretion disk of normal matter swirling around a black hole, with a jet emanating from the top. Since matter randomly falling into the black hole should not spin up a black hole this much, the NuSTAR and XMM measurements also validate the existence of the  surrounding accretion disk.   Hole New Worlds: It's Black Hole Week at NASA!
+What’s causing those lines? Objects in the sky sometimes appear reflected as lines across water — but why? If the water’s surface is smooth, then reflected objects would appear similarly -- as spots. But if the water is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line. The same effect is frequently seen for the Sun just before sunset and just after sunrise. Pictured about 10 days ago in Ibiza, Spain, images of the rising Moon, Venus (top), and Saturn (right, faint) were captured both directly and in line-reflected forms from the Mediterranean Sea. The other bright object on the right with a water-reflected line is a beacon on a rock to warn passing boats.   Explore Your Universe: Random APOD Generator
 
-![Spin up of a Supermassive Black Hole](https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg)
+![Planet Lines Across Water](https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/blackholedisk_cfa_1080.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_2603.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>The Moon and Mars will make a close approach tonight, appearing less than one degree away from each other.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-3.jpg" alt=""/></p>
-<p>The two will also be passing right in front of the beehive cluster. Through a set of binoculars, you should be able to get all three objects within your field of view, or at least mostly within.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>Tonight, the Eta Aquariids meteor shower peaks. The meteor shower happens annually from April 19th to May 28th with peaks typically around the 5th. The shower will be at its best once the radiant constellation, Aquarius, is above the horizon. This happens around 3:00am and will last up until the Sun rises.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-5.jpg" alt=""/></p>
+<p>With Aquarius rising so close to sunrise, this will inhibit the number of meteors you may see. But you may catch a few if you’re an early riser!</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-3-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-5-2025/)
