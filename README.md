@@ -1,18 +1,16 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Planet Lines Across Water  
-📅 **Date:** May 5, 2025  
-📸 **Image Credit:** 
-Jose Antonio Hervas
-  
+🔭 **Title:** The Doubly Warped World of Binary Black Holes  
+📅 **Date:** May 6, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What’s causing those lines? Objects in the sky sometimes appear reflected as lines across water — but why? If the water’s surface is smooth, then reflected objects would appear similarly -- as spots. But if the water is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line. The same effect is frequently seen for the Sun just before sunset and just after sunrise. Pictured about 10 days ago in Ibiza, Spain, images of the rising Moon, Venus (top), and Saturn (right, faint) were captured both directly and in line-reflected forms from the Mediterranean Sea. The other bright object on the right with a water-reflected line is a beacon on a rock to warn passing boats.   Explore Your Universe: Random APOD Generator
+If one black hole looks strange, what about two? Light rays from accretion disks around a pair of orbiting supermassive black holes make their way through the warped space-time produced by extreme gravity in this detailed computer visualization.  The simulated accretion disks have been given different false color schemes, red for the disk surrounding a 200-million-solar-mass black hole, and blue for the disk surrounding a 100-million-solar-mass black hole.  For these masses, though, both accretion disks would actually emit most of their light in the ultraviolet.  The video allows us to see both sides of each black hole at the same time.  Red and blue light originating from both black holes can be seen in the innermost ring of light, called the photon sphere, near their event horizons.  In the past decade, gravitational waves from black hole collisions have actually been detected, although the coalescence of supermassive black holes remains undiscovered.   Hole New Worlds: It's Black Hole Week at NASA!
 
-![Planet Lines Across Water](https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg)
+![The Doubly Warped World of Binary Black Holes](https://www.youtube.com/embed/rQcKIN9vj3U?rel=0)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_2603.jpg)
+**Want the HD version?** [Click here!](HD Image URL not provided)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
 <p>Tonight, the Eta Aquariids meteor shower peaks. The meteor shower happens annually from April 19th to May 28th with peaks typically around the 5th. The shower will be at its best once the radiant constellation, Aquarius, is above the horizon. This happens around 3:00am and will last up until the Sun rises.</p>
 <p><img src="https://www.slsc.org/wp-content/uploads/2025/04/may-5.jpg" alt=""/></p>
 <p>With Aquarius rising so close to sunrise, this will inhibit the number of meteors you may see. But you may catch a few if you’re an early riser!</p>
