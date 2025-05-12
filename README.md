@@ -1,18 +1,19 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** The Surface of Venus from Venera 14  
-📅 **Date:** May 11, 2025  
-📸 **Image Credit:** Donald Mitchell  
+🔭 **Title:** Gaia Reconstructs a Side View of our Galaxy  
+📅 **Date:** May 12, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus' equator. On the lower left is the spacecraft's penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System over 40 years ago, digital processing and merging of Venera's unusual images continues even today.  Recent analyses of infrared measurements taken by ESA's orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.    Jigsaw Fun: Astronomy Puzzle of the Day
+What does our Milky Way Galaxy look like from the side? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has a very thin central disk. Our Sun and all the stars we see at night are in this disk. Although hypothesized before, perhaps more surprising is that the disk appears curved at the outer edges. The colors of our Galaxy's warped central band derive mostly from dark dust, bright blue stars, and red emission nebulas. Although data analysis is ongoing, Gaia was deactivated in March after a successful mission.   Explore Your Universe: Random APOD Generator
 
-![The Surface of Venus from Venera 14](https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg)
+![Gaia Reconstructs a Side View of our Galaxy](https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/Venus_Venera14_1705.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_5000.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Mercury is the closest planet to the Sun at approximately 30.4 million miles (48.9 million km) which causes the planet to heat up to extreme temperatures. However, because Mercury has little to no atmosphere, it is not able to hold the heat. This means that as day turns to night, temperatures drop drastically. Daytime temperatures on Mercury can reach up to 800°F (430°C), while nighttime temperatures reach as low as -290°F (-180°C).</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-10.jpg" alt=""/></p>
-<p>This image is one of the first up-close images of Mercury. It was taken by the Mariner 10 spacecraft in March of 1974. Mariner 10 was also the first spacecraft sent to Mercury. This shot of Mercury shows us the terminator line, or the line separating day and night on the little planet, where temperatures on either side have a 1,000-degree difference.</p>
+<p>The Space Shuttle mission STS-125 launched today in 2009. This was the last servicing mission to the Hubble Space Telescope.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-11.jpg" alt=""/></p>
+<p>During the 14-day mission, the crew of STS-125 added two new instruments to the Hubble Space Telescope. These were the Cosmic Origins Spectrograph and the Wide Field Camera 3. While the Hubble was docked in the Space Shuttle <i>Atlantis</i>’ payload bay, the crew also replaced a Fine Guidance Sensor, six gyroscopes, a thermal blanket for insulating panels, and two battery unit modules. The repairs allowed for the telescope to continue function until at least 2014. The Hubble has surpassed that date as it is still in operation today.</p>
+<p>The image on the left is of the Hubble Space Telescope being lifted out of the payload bay of <i>Atlantis</i> by the robotic arm and being released back into orbit at the end of the mission. The image on the right is of NASA astronaut John Grunsfeld performing the first of five spacewalks to service the telescope. In this image we get a really good idea of how large the Hubble Space Telescope is compared to Grunsfeld.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-10-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-11-2025/)
