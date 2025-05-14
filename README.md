@@ -1,18 +1,22 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Gaia Reconstructs a Top View of our Galaxy  
-📅 **Date:** May 13, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** NGC 1360: The Robin's Egg Nebula  
+📅 **Date:** May 14, 2025  
+📸 **Image Credit:** 
+Andrea Iorio, 
+Vikas Chander & 
+ShaRA Team
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What does our Milky Way Galaxy look like from the top? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has distinct spiral arms.  Our Sun and most of the bright stars we see at night are in just one arm: Orion. Gaia data bolsters previous indications that our Milky Way has more than two spiral arms. Our Galaxy's center sports a prominent bar.  The colors of our Galaxy's thin disk derive mostly from dark dust, bright blue stars, and red emission nebula. Although data analysis is ongoing, Gaia was deactivated in March after a succession mission.   Jigsaw Challenge: Astronomy Puzzle of the Day
+This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-![Gaia Reconstructs a Top View of our Galaxy](https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg)
+![NGC 1360: The Robin's Egg Nebula](https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_2100.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_4310.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Full moon occurs today at 11:56am. The full moon of May is often named the Flower Moon, due to the abundance of flowers in bloom during this time of the year!</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-12.jpg" alt=""/></p>
-<p>During a full moon, the entire near side of the lunar disk is illuminated from our perspective. This happens due to the moon being on the opposite side of the Earth than the Sun is. This also means that full moons rise as the Sun sets due to this opposition. So, look toward the eastern horizon around sunset to see the Flower Moon.</p>
+<p>Looking toward the northwest after sunset tonight, you will find a bright yellowish-orange star low in the sky. This star is called Capella, and it is the 6th brightest star in the sky and the 3rd brightest star in the northern celestial hemisphere.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-13.jpg" alt=""/></p>
+<p>Capella is the brightest star in the winter constellation Auriga the Goatherder. The name Capella translates to “the little goat” or “the little nanny goat” from Latin. Capella will also be near other bright objects and stars on the western horizon such as Jupiter and the red supergiant star Betelgeuse in Orion the Hunter.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-12-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-13-2025/)
