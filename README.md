@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Messier 101  
-📅 **Date:** May 16, 2025  
+🔭 **Title:** Ares 3 Landing Site: The Martian Revisited  
+📅 **Date:** May 17, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Big, beautiful spiral galaxy M101 is one of the last entries in Charles Messier's famous catalog, but definitely not one of the least. About 170,000 light-years across, this galaxy is enormous, almost twice the size of our own Milky Way. M101 was also one of the original spiral nebulae observed by Lord Rosse's large 19th century telescope, the Leviathan of Parsontown. Assembled from 51 exposures recorded by the Hubble Space Telescope in the 20th and 21st centuries, with additional data from ground based telescopes, this mosaic spans about 40,000 light-years across the central region of M101 in one of the highest definition spiral galaxy portraits ever released from Hubble. The sharp image shows stunning features of the galaxy's face-on disk of stars and dust along with background galaxies, some visible right through M101 itself. Also known as the Pinwheel Galaxy, M101 lies within the boundaries of the northern constellation Ursa Major, about 25 million light-years away.
+This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the sci-fi novel, "The Martian," by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site, corresponding to the coordinates of this cropped HiRISE frame. For scale, Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.
 
-![Messier 101](https://apod.nasa.gov/apod/image/2505/M101_hst1280.jpg)
+![Ares 3 Landing Site: The Martian Revisited](https://apod.nasa.gov/apod/image/2505/PIA19363_1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/M101_hst6000.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/PIA19363.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the open star cluster called The Coma Star Cluster will be found high in the southern sky around 10:00pm. The brighter stars of the cluster make a distinct V-shape.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-15.jpg" alt=""/></p>
-<p>In ancient times, this cluster represented the tail of Leo the Lion. But around 240 BCE, the Ptolemaic pharaoh Ptolemy III renamed it for his wife and Egyptian Queen Berenice II. As the story goes, Queen Berenice sacrificed her hair to Aphrodite in hopes that her husband would return safe from war. The next day Berenice’s lock was missing from the temple, presumed to be accepted by the gods. Greek astronomer and mathematician, Conon of Samos, identified this star cluster as the queen’s lock of hair, placed into the sky to honor her sacrifice.</p>
+<p>The largest of all 88 modern constellations can be seen in the southwest sky around 10:00pm tonight. Hydra, known as the multi-headed serpent from Greek legend, can be found just below prominent springtime patters, Virgo and Leo.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-16.jpg" alt=""/></p>
+<p>Spanning from the southern to the western horizon, Hydra is typically symbolizing a large sea serpent swimming through the sky. But there are lots of different interpretations of the snake. For example, the name Hydra typically evokes the story of Hercules slaying the Lernaean Hydra during his second of 12 labors.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-15-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-16-2025/)
