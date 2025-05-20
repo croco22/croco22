@@ -1,18 +1,20 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Charon Flyover from New Horizons  
-📅 **Date:** May 19, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** Milky Way over Maunakea  
+📅 **Date:** May 20, 2025  
+📸 **Image Credit:** 
+Marzena Rogozinska
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What if you could fly over Pluto's moon Charon -- what might you see? The New Horizons spacecraft did just this in 2015 July as it zipped past Pluto and Charon with cameras blazing.  The images recorded allowed for a digital reconstruction of much of Charon's surface, further enabling the creation of fictitious flights over Charon created from this data.  One such fanciful, minute-long, time-lapse video is shown here with vertical heights and colors of surface features digitally enhanced.  Your journey begins over a wide chasm that divides different types of Charon's landscapes, a chasm that might have formed when Charon froze through. You soon turn north and fly over a colorful depression dubbed Mordor that, one hypothesis holds, is an unusual remnant from an ancient impact.  Your voyage continues over an alien landscape rich with never-before-seen craters, mountains, and crevices.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and Charon and is now headed out of our Solar System.    Portal Universe: Random APOD Generator
+Have you ever seen the band of our Milky Way Galaxy?  In a clear sky from a dark location at the right time, a faint band of light becomes visible across the sky.  Soon after your eyes become dark adapted, you might spot the band for the first time.  It may then become obvious.  Then spectacular.  One reason for your growing astonishment might be the realization that this fuzzy swath, the Milky Way, contains billions of stars.  Visible in the featured image, high above in the night sky, the band of the Milky Way Galaxy arcs.  Also visible are the colorful clouds of Rho Ophiuchi on the right, and the red and circular Zeta Ophiuchi nebula near the top center. Taken in late February from Maunakea, Hawaii, USA, the foreground telescope is the University of Hawaii's 2.2-Meter Telescope. Fortunately, you don’t need to be near the top of a Hawaiian volcano to see the Milky Way.    Put it All Together: Astronomy Puzzle of the Day
 
-![Charon Flyover from New Horizons](Image URL not provided)
+![Milky Way over Maunakea](https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_960.jpg)
 
-**Want the HD version?** [Click here!](HD Image URL not provided)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_1295.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the deep sky object known as the Leo Triplet with be positioned in the Southwest around 10:00pm. This triplet group is made up of three spiral galaxies all positioned at different angles. Through a large enough backyard telescope, you should be able to get all three galaxies in one field of view!</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-18.jpg" alt=""/></p>
-<p>The Leo Triplet in composed of galaxies M65, M66, and NGC 3628. These galaxies sit approximately 35 million light-years away!</p>
+<p>Tomorrow morning, the last quarter moon will be visible in the predawn sky. The Moon will rise a little around 2:00am and be visible even in the morning sky until it sets around 12:45pm.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-19.jpg" alt=""/></p>
+<p>The Moon will be found in the zodiacal constellation of Aquarius the Water-Bearer, just above the bright star Fomalhaut. Fomalhaut is the brightest star in the constellation Piscis Austrinus, the Southern Fish.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-18-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-19-2025/)
