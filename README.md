@@ -1,19 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Spiral Galaxy NGC 2566 from Webb  
-📅 **Date:** May 26, 2025  
+🔭 **Title:** Herbig-Haro 24  
+📅 **Date:** May 28, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What’s happening in the center of spiral galaxy NGC 2566? First, the eight rays that appear to be coming out of the center in the featured infrared image are not real — they are diffraction spikes caused by the mechanical structure of the Webb space telescope itself. The center of NGC 2566 is bright but not considered unusual, which means that it likely contains a supermassive black hole, although currently not very active. At only 76 million light years away, the light we see from NGC 2566 today left when dinosaurs roamed the Earth. The picturesque galaxy is close enough so that Earthly telescopes, including Webb and Hubble, can resolve the turbulent clouds of gas and dust where stars can form and so allows study of stellar evolution. NGC 2566, similar in size to our Milky Way Galaxy, is notable for its bright central bar and its prominent outer spiral arms.
+This might look like a double-bladed lightsaber, but these two cosmic jets actually beam outward from a newborn star in a galaxy near you. Constructed from Hubble Space Telescope image data, the stunning scene spans about half a light-year across Herbig-Haro 24 (HH 24), some 1,300 light-years or 400 parsecs away in the stellar nurseries of the Orion B molecular cloud complex. Hidden from direct view, HH 24's central protostar is surrounded by cold dust and gas flattened into a rotating accretion disk. As material from the disk falls toward the young stellar object, it heats up. Opposing jets are blasted out along the system's rotation axis. Cutting through the region's interstellar matter, the narrow, energetic jets produce a series of glowing shock fronts along their path.
 
-![Spiral Galaxy NGC 2566 from Webb](https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_960.jpg)
+![Herbig-Haro 24](https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-largeHH241024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/NGC2256_Webb_1280.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/hs-2015-42-a-fullHH24.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>On this date in 1961, President Kennedy before a special joint session of congress announced the goal of putting an American on the Moon by the end of the decade. This was accomplished on July 20, 1969. Over 50 years later, NASA’s Artemis program is working on returning humans to the lunar surface by 2026.</p>
-<p>The next planned Artemis mission is Artemis II, which will send the first crewed lunar orbit flight since the end of the Apollo missions. Currently Artemis II is scheduled for launch in early 2026.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-25.jpg" alt=""/></p>
-<p>The image on the left is of President Kennedy delivering the famous speech 64 years ago. The image on the right is of the first successful lunar landing, Apollo 11. In this image, Lunar Module Pilot Buzz Aldrin is seen saluting the deployed American flag on the surface of the Moon.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>Tonight, Messier 4 is well placed reaching its highest point in the sky around midnight. Found in the summer constellation of Scorpius, this globular cluster, and many others, will continue to be a binocular target throughout the summer.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-28.jpg" alt=""/></p>
+<p>M4 will be found near the heart of the scorpion, represented by the red star Antares. This cluster is one of the brightest globular clusters in the northern hemisphere with an apparent magnitude around 5.6</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-25-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-28-2025/)
