@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Irregular Dwarf Galaxy Sextans A  
-📅 **Date:** May 29, 2025  
-📸 **Image Credit:** Franz Hofmann  
+🔭 **Title:** Mars in the Loop  
+📅 **Date:** May 30, 2025  
+📸 **Image Credit:** Tunc Tezel  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Grand spiral galaxies often seem to get all the attention, flaunting young, bright, blue star clusters and pinkish star forming regions along graceful, symmetric spiral arms. But small galaxies form stars too, like irregular dwarf galaxy Sextans A. Its young star clusters and star forming regions are gathered into a gumdrop-shaped region a mere 5,000 light-years across. Seen toward the navigational constellation Sextans, the small galaxy lies some 4.5 million light-years distant. That puts it near the outskirts of the local group of galaxies, that includes the large, massive spirals Andromeda and our own Milky Way. Brighter Milky Way foreground stars appear spiky and yellowish in this colorful telescopic view of Sextans A.
+This composite of images spaced a weather-permitting 5 to 9 days apart, from 2024 September 19 (top right) through 2025 May 18 (bottom left), faithfully traces ruddy-colored Mars as it makes a clockwise loop through the constellations Gemini and Cancer in planet Earth's night sky. You can connect the dots and dates with your cursor over the image, but be sure to check out this animation of the Red Planet's 2024/25 retrograde motion. Of course Mars didn't actually reverse the direction of its orbit. Instead, the apparent backwards motion with respect to the background stars is a reflection of the orbital motion of Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, the Earth moving more rapidly through its own relatively close-in orbit.  In this case Mars' apparent eastward motion began to reverse around December 8, when it seemed to linger near open star cluster M44 in Cancer. After wandering back to the west, under Gemini's bright stars Castor and Pollux, Mars returned to pose near M44 by early May. At its brightest near opposition on 2025 January 16, Mars was a mere 96 million kilometers away.
 
-![Irregular Dwarf Galaxy Sextans A](https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub1024.jpg)
+![Mars in the Loop](https://apod.nasa.gov/apod/image/2505/Ma2024-5_1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/sexa_gemsbock_cdk_pub.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/Ma2025-5.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, Messier 4 is well placed reaching its highest point in the sky around midnight. Found in the summer constellation of Scorpius, this globular cluster, and many others, will continue to be a binocular target throughout the summer.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-28.jpg" alt=""/></p>
-<p>M4 will be found near the heart of the scorpion, represented by the red star Antares. This cluster is one of the brightest globular clusters in the northern hemisphere with an apparent magnitude around 5.6</p>
+<p>Tonight Messier 51, or the Whirlpool Galaxy, will be high in the north around 10:00pm. This spiral galaxy that interacts with a smaller dwarf galaxy is a fan-favorite springtime galaxy to track down! In optimum conditions, the pair may be visible through a set of binoculars.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-29.jpg" alt=""/></p>
+<p>While the Whirlpool Galaxy is found closest to the stars in Ursa Major, it’s technically found within the boundary lines of the constellation Canes Venatici. This is due to the way constellation boundaries are split up in the sky when the constellations were officially defined in the 1920s.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-28-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-29-2025/)
