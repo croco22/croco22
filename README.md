@@ -1,18 +1,20 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Afterimage Sunset  
-📅 **Date:** May 31, 2025  
-📸 **Image Credit:** Marcella Giulia Pace  
+🔭 **Title:** UGC 1810: Wildly Interacting Galaxy from Hubble  
+📅 **Date:** June 1, 2025  
+📸 **Image Credit:** 
+Domingo Pestana
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-On May 7, the Sun setting behind a church bell tower was captured in this filtered and manipulated digital skyscape from Ragusa, Sicily, planet Earth. In this version of the image the colors look bizarre. Still, an intriguing optical illusion known as an afterimage can help you experience the same scene with a more natural looking appearance. To try it, find the sunspots of active region AR4079 grouped near the bottom of the blue solar disk. Relax and stare at the dark sunspot group for about 30 seconds, then close your eyes or shift your gaze to a plain white surface. In a moment an afterimage of the sunset should faintly appear. But the afterimage sunset will have this image's complementary colors and a more normal yellow Sun against a familiar blue sky.
+What's happening to this spiral galaxy? Although details remain uncertain, it surely has to do with an ongoing battle with its smaller galactic neighbor. The featured galaxy is labelled UGC 1810 by itself, but together with its collisional partner is known as Arp 273. The overall shape of UGC 1810 -- in particular its blue outer ring -- is likely a result of wild and violent gravitational interactions. This ring's blue color is caused by massive stars that are blue hot and have formed only in the past few million years.  The inner galaxy appears older, redder, and threaded with cool filamentary dust.  A few bright stars appear well in the foreground, unrelated to UGC 1810, while several galaxies are visible well in the background.  Arp 273 lies about 300 million light years away toward the constellation of Andromeda.  Quite likely, UGC 1810 will devour its galactic sidekick over the next billion years and settle into a classic spiral form.
 
-![Afterimage Sunset](https://apod.nasa.gov/apod/image/2505/Afterimageorizontalcrop.jpeg)
+![UGC 1810: Wildly Interacting Galaxy from Hubble](https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_1080.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2505/Afterimageorizontal.jpeg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_3079.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tomorrow morning, Venus will be at greatest western elongation. Rising around 3:30am, Venus will reach its greatest separation from the Sun in its morning apparition.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-30.jpg" alt=""/></p>
-<p>Venus will appear as the brightest object in the eastern sky just before sunrise. After today, Venus will begin its trek back toward the Sun in our sky, heading back to its “evening star” position. It will be a while before its visible in the evening sky though. The next greatest eastern elongation, or Venus’ greatest separation from the Sun in the evening sky, will be on August 15th, 2026.</p>
+<p>Tonight, there will be close approach of the Moon and Mars. The two objects will appear together in the western evening sky between the constellations Leo the Lion and Cancer the Crab.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/05/may-31.jpg" alt=""/></p>
+<p>The Moon will be just a few days old in a waxing crescent phase. Both objects will be just to the west of the head and mane of Leo the Lion.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-30-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-may-31-2025/)
