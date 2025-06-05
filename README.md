@@ -1,19 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** A Milky Road to the Rubin Observatory  
-📅 **Date:** June 4, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** Savudrija Star Trails  
+📅 **Date:** June 5, 2025  
+📸 **Image Credit:** Branko Nadj  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Is the sky the same every night? No -- the night sky changes every night in many ways. To better explore how the night sky changes, the USA's NSF and DOE commissioned the Vera C. Rubin Observatory in Cerro Pachón, Chile. In final testing before routine operations, Rubin will begin to explore these nightly changes -- slight differences that can tell us much about our amazing universe and its surprising zoo of objects. With a mirror over 8 meters across, Rubin will continually reimage the entire visible sky every few nights to discover new supernovas, potentially dangerous asteroids, faint comets, and variable stars -- as well as mapping out the visible universe's large-scale structure.  Pictured, the distant central band of our Milky Way Galaxy appears to flow out from the newly operational observatory. Taken last month, the featured picture is a composite of 21 images across the night sky, capturing airglow on the horizon and the Small Magellanic Cloud galaxy on the lower left.    APOD Turns 30!: Free Public Lecture in Anchorage on June 11
+Savudrija lighthouse shines along the coast near the northern end of the Istrian peninsula in this well-composed night skyscape. A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century. But an even older aid to navigation shines in the sky above, Polaris, alpha star of the constellation Ursa Minor and also known as the North Star. In this scene Polaris forms the shortest bright arc near the North Celestial Pole, the extension of Earth's axis of rotation into space. Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails. The composite image is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.
 
-![A Milky Road to the Rubin Observatory](https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_960.jpg)
+![Savudrija Star Trails](https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/RubinMw_assuncao_1460.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>On this date in 1965, astronaut Edward H. White II became the first American to perform a spacewalk. He spent about 20 minutes outside the Gemini IV capsule as he orbited roughly 120 miles above the surface of Earth.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-3.jpg" alt=""/></p>
-<p>This photo was taken by Command Pilot, James A. McDivitt, as White performed his EVA. The EVA was meant to test maneuverability of tools such as the Hand-Held Maneuvering Unit for future spacewalks.</p>
-<p>Gemini IV would unfortunately be White’s only spaceflight as he, and Gemini IV CAPCOM support crew Virgil I. “Gus” Grissom and Roger B. Chaffee, would perish in the Apollo I fire almost two years later in 1967.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>Did you know, black holes have theoretical opposites known as white holes? White holes are essentially the opposite of black holes, spewing out immense amounts of light rather than trapping all light. Presently there have been no confirmations of white holes existing.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-5.jpg" alt=""/></p>
+<p>The image above depicts how a black hole and white hole would appear, with the two being connected through a singularity. White holes are often depicted as the exit point of theoretical wormholes. Although, just like the white holes, wormholes have also never been observed in the universe and remain theoretical.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-3-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-5-2025/)
