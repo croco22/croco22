@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Perseverance Selfie with Ingenuity  
-📅 **Date:** June 7, 2025  
+🔭 **Title:** Facing NGC 3344  
+📅 **Date:** June 8, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-On the Mars rover's mission Sol 46 or Earth date April 6, 2021, Perseverance held out a robotic arm to take its first selfie on Mars. The WATSON camera at the end of the arm was designed to take close-ups of Martian rocks and surface details though, and not a quick snap shot of friends and smiling faces. In the end, teamwork and weeks of planning on Mars time was required to program a complex series of exposures and camera motions to include Perseverance and its surroundings. The resulting 62 frames were composed into a detailed mosaic, one of the most complicated Mars rover selfies ever taken. In this version of the selfie, the rover's Mastcam-Z and SuperCam instruments are looking toward WATSON and the end of the rover's outstretched arm. About 4 meters (13 feet) from Perseverance is a robotic companion, the Mars Ingenuity helicopter. Perseverance has now spent over 1,500 sols exploring the surface of the Red Planet. On Earth date January 18, 2024, Ingenuity made its 72nd and final flight through the thin Martian atmosphere.
+From our vantage point in the Milky Way Galaxy, we see NGC 3344 face-on. Nearly 40,000 light-years across, the big, beautiful spiral galaxy is located just 20 million light-years away in the constellation of Leo Minor. This multi-color Hubble Space Telescope close-up of NGC 3344 includes remarkable details from near infrared to ultraviolet wavelengths. The frame extends some 15,000 light-years across the spiral's central regions. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. Of course, the bright stars with a spiky appearance are in front of NGC 3344 and lie well within our own Milky Way.   APOD Turns 30!: Free Public Lecture in Anchorage on Wednesday, June 11 at 7 pm
 
-![Perseverance Selfie with Ingenuity](https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg)
+![Facing NGC 3344](https://apod.nasa.gov/apod/image/2506/NGC3344_hst2048.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/PIA24542_fig2.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/NGC3344_hst1024.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight around 11:00pm, the group of galaxies known as the Draco Trio, or the Draco Group, can be found high in the North in the tail of the dragon. Like the Leo Triplet, with a large enough telescope, you should be able to view all three galaxies in one field of view.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-6.jpg" alt=""/></p>
-<p>These three galaxies were discovered by William Herschel on May 25th, 1788. They sit approximately 100 to 140 million lightyears away from the Earth. With a large telescope, numerous distant galaxies beyond the group can be seen in the field of view.</p>
+<p>Tonight, a waxing gibbous moon can be found almost halfway between two stars of different colors. On the right (western) side of the Moon will be the blue star Spica, and on the left (eastern) side of the Moon with be the red star Antares.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-7.jpg" alt=""/></p>
+<p>The color of a star tells us the temperature of the star. The cooler a star is, the redder it will appear. The hotter a star is the bluer it will appear, even though we tend to associate red with heat and blue with cold. So, this means Spica is much hotter than Antares. If it’s still a little puzzling, think of a campfire that you might roast some smores over this summer. The outer edge of the fire, where it is cooler, glows red. The core of the fire at the center, where it’s the hottest, glows blue. Stars behave the same way!</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-6-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-7-2025/)
