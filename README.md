@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Facing NGC 3344  
-📅 **Date:** June 8, 2025  
+🔭 **Title:** Between Scylla and Charybdis: A Double Cosmic Discovery  
+📅 **Date:** June 9, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-From our vantage point in the Milky Way Galaxy, we see NGC 3344 face-on. Nearly 40,000 light-years across, the big, beautiful spiral galaxy is located just 20 million light-years away in the constellation of Leo Minor. This multi-color Hubble Space Telescope close-up of NGC 3344 includes remarkable details from near infrared to ultraviolet wavelengths. The frame extends some 15,000 light-years across the spiral's central regions. From the core outward, the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. Of course, the bright stars with a spiky appearance are in front of NGC 3344 and lie well within our own Milky Way.   APOD Turns 30!: Free Public Lecture in Anchorage on Wednesday, June 11 at 7 pm
+Can you identify this celestial object?  Likely not — because this is a discovery image.  Massive stars forge heavy elements in their cores and, after a few million years, end their lives in powerful supernova explosions. These remnants cool relatively quickly and fade, making them difficult to detect.  To uncover such faint, previously unknown supernova remnants, a dedicated group of amateur astrophotographers searched through sky surveys for possible supernova remnant candidates.  The result: the first-ever image of supernova remnant G115.5+9.1 — named Scylla by its discoverers—glowing faintly in the constellation of the mythological King of Aethiopia: Cepheus.  Emission from hydrogen atoms in the remnant is shown in red, and faint emission from oxygen is shown in hues of blue.  Surprisingly, another discovery lurked to the upper right: a faint, previously unknown planetary nebula candidate. In keeping with mythological tradition, it was named Charybdis (Sai 2) — a nod to the ancient Greek expression "caught between Scylla and Charybdis" from Homer’s Odyssey.
 
-![Facing NGC 3344](https://apod.nasa.gov/apod/image/2506/NGC3344_hst2048.jpg)
+![Between Scylla and Charybdis: A Double Cosmic Discovery](https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/NGC3344_hst1024.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_2094.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, a waxing gibbous moon can be found almost halfway between two stars of different colors. On the right (western) side of the Moon will be the blue star Spica, and on the left (eastern) side of the Moon with be the red star Antares.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-7.jpg" alt=""/></p>
-<p>The color of a star tells us the temperature of the star. The cooler a star is, the redder it will appear. The hotter a star is the bluer it will appear, even though we tend to associate red with heat and blue with cold. So, this means Spica is much hotter than Antares. If it’s still a little puzzling, think of a campfire that you might roast some smores over this summer. The outer edge of the fire, where it is cooler, glows red. The core of the fire at the center, where it’s the hottest, glows blue. Stars behave the same way!</p>
+<p>On this date in 1975, the Soviet spacecraft Venera 9 launched. Venera 9 consisted of both an orbiter and lander, which were the first to orbit Venus and the first to send back images from the surface of another planet, respectively. The images sent back from the surface of Venus were meant to be a 360° panorama; however, one of the lens caps did not release, so only a 180° image was captured.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-8.jpg" alt=""/></p>
+<p>The image above is the first view of the surface of Venus when Venera landed in October of 1975. Other than photos, atmospheric measurements were taken at the surface as well. The air pressure at the surface was around 9,100 kilopascals, or the equivalent of 90 Earth atmospheres. The air temperature was a staggering 905 degrees Fahrenheit.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-7-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-8-2025/)
