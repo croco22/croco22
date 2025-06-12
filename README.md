@@ -10,9 +10,9 @@ On April 20, 2023 the shadow of a New Moon raced across planet Earth's southern 
 
 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/TSE2023-Comp48-2a.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the full moon rises at approximately 9:23pm and will set at 6:18am. It will be 100% full at 2:43am on June 12.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-11.jpg" alt=""/></p>
-<p>June’s full moon is commonly called the “Strawberry Moon” after the wild strawberries that ripen this month.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>Today, Venus is at aphelion. Aphelion is the point in an elliptical orbit where an object is farthest from the Sun. During its 225-day orbit, Venus reaches a maximum of 0.73 AU from the Sun. The orbit of Venus is very-nearly circular and varies only 1.5% between perihelion and aphelion.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-12.jpg" alt=""/></p>
+<p>Venus will be found low on the eastern horizon in the early morning hours before sunrise. At a magnitude pf -4.3, Venus will be the brightest object on the pre-sunrise sky.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-11-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-12-2025/)
