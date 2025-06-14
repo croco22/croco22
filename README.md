@@ -1,19 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Rubin's Galaxy  
-📅 **Date:** June 13, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** Meteors and Satellite Trails over the Limay River  
+📅 **Date:** June 14, 2025  
+📸 **Image Credit:** Martín Moliné  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-In this Hubble Space Telescope image the bright, spiky stars lie in the foreground toward the heroic northern constellation Perseus and well within our own Milky Way galaxy. In sharp focus beyond is UGC 2885, a giant spiral galaxy about 232 million light-years distant. Some 800,000 light-years across compared to the Milky Way's diameter of 100,000 light-years or so, it has around 1 trillion stars. That's about 10 times as many stars as the Milky Way. Part of an investigation to understand how galaxies can grow to such enormous sizes, UGC 2885 was also part of An Interesting Voyage and American astronomer Vera Rubin's pioneering study of the rotation of spiral galaxies. Her work was the first to convincingly demonstrate the dominating presence of dark matter in our universe. A new U.S. coin has been issured to honor Vera Rubin, while the Vera C. Rubin Observatory is scheduled to unveil images from its first look at the cosmos on June 23.
+What are all those streaks in the sky? A galaxy, many satellite trails, and a few meteors.  First, far in the distance, the majestic band of our Milky Way Galaxy runs down the left. Mirroring it on the right are several parallel trails of Earth-orbiting Starlink satellites. Many fainter satellite trails also crisscross the image. The two short and bright streaks are meteors — likely members of the annual Eta Aquariids meteor shower.  The planet Venus shines on the lower right.  Venus and the satellites shine by reflected sunlight. The featured picture is a composite of exposures all taken in a few hours on May 4 over the Limay River in Argentina.
 
-![Rubin's Galaxy](https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst1024.jpg)
+![Meteors and Satellite Trails over the Limay River](https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/RubinsGalaxy_hst2000.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_6512.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>Today in 1983, the <i>Pioneer 10 </i>space probe crossed the orbit of Neptune. Pioneer 10, launched in 1972, is credited with numerous “firsts” including being the first space craft placed on a trajectory to escape the solar system into outer space, the first spacecraft to fly past Jupiter, and the first spacecraft to use all nuclear electrical power. Originally designed for a 21-month mission, <i>Pioneer 10 </i>lasted over 30 years and sent its last signal to Earth in 2003.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-13.jpg" alt=""/></p>
-<p><i>Pioneer 10 </i>is still travelling to this day and is the third-most distance man-made object in space. It is one of five spacecraft on a trajectory for interstellar space which include <i>10</i>’s sister craft, <i>Pioneer 11</i>, the <i>Voyager 1 &amp; 2 </i>probes, and <i>New Horizons</i>. As of June of 2024, <em>Pioneer 10</em>’s distance is estimated to be approximately 20.5 billion km from the Earth.</p>
-<p>The image above is an artist’s impression of Pioneer 10 looking back on the inner solar system as it travels into interstellar space.</p>
+<p>The Greek hero of Hercules, a well-known summer constellation, is famous for the legend of his 12 labors. Did you know that there are a few constellations that are sometimes seen as references to his labors? For example, Hydra, a constellation found in the spring, is often associated with Hercules’ second labor: slaying the nine-headed Lernaean Hydra.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-14.jpg" alt=""/></p>
+<p>Hydra is still currently visible in the evening sky, although it is rather low in the west as we move farther into summer. As the snake is the largest of all official IAU constellations, it almost stretched completely from due south to due west along the horizon.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-13-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-14-2025/)
