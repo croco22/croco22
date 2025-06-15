@@ -1,18 +1,25 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Meteors and Satellite Trails over the Limay River  
-📅 **Date:** June 14, 2025  
-📸 **Image Credit:** Martín Moliné  
+🔭 **Title:** Two Worlds, One Sun  
+📅 **Date:** June 15, 2025  
+📸 **Image Credit:** 
+Damia Bouic; 
+ Right Image Credit:  NASA,
+JPL-Caltech,
+MSSS;
+ Digital processing: 
+Damia Bouic
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What are all those streaks in the sky? A galaxy, many satellite trails, and a few meteors.  First, far in the distance, the majestic band of our Milky Way Galaxy runs down the left. Mirroring it on the right are several parallel trails of Earth-orbiting Starlink satellites. Many fainter satellite trails also crisscross the image. The two short and bright streaks are meteors — likely members of the annual Eta Aquariids meteor shower.  The planet Venus shines on the lower right.  Venus and the satellites shine by reflected sunlight. The featured picture is a composite of exposures all taken in a few hours on May 4 over the Limay River in Argentina.
+How different does sunset appear from Mars than from Earth? For comparison, two images of our common star were taken at sunset, one from Earth and one from Mars. These images were scaled to have the same angular width and are featured here side-by-side. A quick inspection will reveal that the Sun appears slightly smaller from Mars than from Earth. This makes sense since Mars is 50% further from the Sun than Earth. More striking, perhaps, is that the Martian sunset is noticeably bluer near the Sun than the typically orange colors near the setting Sun from Earth. The reason for the blue hues from Mars is not fully understood, but thought to be related to forward scattering properties of Martian dust. The terrestrial sunset was taken in 2012 March from Marseille, France, while the Martian sunset was captured in 2015 by NASA's robotic Curiosity rover from Gale crater on Mars.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24
 
-![Meteors and Satellite Trails over the Limay River](https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_960.jpg)
+![Two Worlds, One Sun](https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_1080.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/MeteorSats_Moline_6512.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_2683.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>The Greek hero of Hercules, a well-known summer constellation, is famous for the legend of his 12 labors. Did you know that there are a few constellations that are sometimes seen as references to his labors? For example, Hydra, a constellation found in the spring, is often associated with Hercules’ second labor: slaying the nine-headed Lernaean Hydra.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-14.jpg" alt=""/></p>
-<p>Hydra is still currently visible in the evening sky, although it is rather low in the west as we move farther into summer. As the snake is the largest of all official IAU constellations, it almost stretched completely from due south to due west along the horizon.</p>
+<p>Uranus is the 3rd largest planet in our solar system with a diameter of 31,518 miles. It takes Uranus 30,687 Earth days to orbit the Sun. Since its discovery Uranus has only completed 2 full orbits. It will complete its next orbit in 2033.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-15.jpg" alt=""/></p>
+<p>Uranus was discovered in 1781 by astronomer William Herschel. The image above is one of the most recent images taken of Uranus. Captured by the James Webb Space Telescope in 2023, this near-infrared image, with Uranus’ seasonal north pole cap and rings shining brightest, is considered one of the most exquisite photos of the distant planet. Along with the ice giant, many distant galaxies can be seen in the background.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-14-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-15-2025/)
