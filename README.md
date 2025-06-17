@@ -10,9 +10,9 @@ Can you find the Rosette Nebula? The red flowery-looking nebula just above the i
 
 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_3294.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the Butterfly Star Cluster (M6) is well placed for observing. It will reach its highest point in the sky around midnight and will culminate approximately four minutes earlier each night over the coming weeks. Located in Scorpius the Scorpion, M6 is a bright open star cluster located in the direction of the galactic center approximately 1,600 light years from Earth.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-16.jpg" alt=""/></p>
-<p>The Butterfly Cluster was first recorded in 1654 by Italian astronomer Giovanni Battista Hodierna. Charles Messier observed it in 1764 and added it to his Messier Catalog. At a magnitude of 4.2, this cluster can be viewed naked eye in dark conditions.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>On this day in 1985, NASA Space Shuttle Discovery launched on STS-51G marking the 18th flight of the Space Shuttle Program. Onboard was mission specialist Shannon W. Lucid. Lucid flew to space five times and is the only American woman to have stayed aboard the Russian space station Mir. In 1996, she was the first woman to be awarded the Congressional Space Medal of Honor.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-17.jpg" alt=""/></p>
+<p>The image on the left if of Lucid aboard the Discovery during the STS-51G mission in 1985. The image on the right is of Lucid aboard the Russian space station Mir in 1996.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-16-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-17-2025/)
