@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Two Worlds, Two Analemmas  
-📅 **Date:** June 21, 2025  
-📸 **Image Credit:** Tunc Tezel  
+🔭 **Title:** A Berry Bowl of Martian Spherules  
+📅 **Date:** June 22, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Sure, that figure-8 shaped curve you get when you mark the position of the Sun in Earth's sky at the same time each day over one year is called an analemma. On the left, Earth's figure-8 analemma was traced by combining wide-angle digital images recorded during the year from December 2011 through December 2012. But the shape of an analemma depends on the eccentricity of a planet's orbit and the tilt of its axis of rotation, so analemma curves can look different for different worlds. Take Mars for example. The Red Planet's axial tilt is similar to Earth's, but its orbit around the same sun is more eccentric (less circular) than Earth's orbit. As seen from the Martian surface, the analemma traced in the right hand panel is shaped more like a tear drop. The Mars rover Opportunity captured the images used over the Martian year corresponding to Earth dates July 2006 to June 2008. Of course, each world's solstice dates still lie at the top and bottom of their different analemma curves. The last Mars northern summer solstice was May 29, 2025. Our fair planet's 2025 northern summer solstice is at June 21, 2:42 UTC.
+How were these unusual Martian spherules created?  Thousands of unusual gray spherules made of iron and rock and dubbed blueberries were found embedded in and surrounding rocks near the landing site of the robot Opportunity rover on Mars in 2004.  To help investigate their origin, Opportunity found a surface dubbed the Berry Bowl with an indentation that was rich in the Martian orbs.  The Berry Bowl is pictured here, imaged during rover's 48th Martian day.  The average size of a Martian blueberry rock is only about 4 millimeters across.  By analyzing a circular patch in the rock surface to the left of the densest patch of spherules, Opportunity obtained data showing that the underlying rock has a much different composition than the hematite rich blueberries.  This information contributes to the growing consensus that these small, strange, gray orbs were slowly deposited from a bath of dirty water.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on Tuesday, June 24 at 7 pm
 
-![Two Worlds, Two Analemmas](https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg)
+![A Berry Bowl of Martian Spherules](https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/berrybowl_opportunity_960.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this day in 2005, the first solar sail spacecraft, <i>Cosmos 1</i>, was launched. Intended to be a proof-of-concept of solar sail propulsion, the craft did not reach its intended orbit due to a rocket malfunction. The first successful solar sail craft would be launched in 2010 by the Japanese Aerospace Exploration Agency (JAXA).</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-21.jpg" alt=""/></p>
-<p>Upon a successful placement into orbit, the spacecraft would have deployed a large sail which would have been propelled by solar photons to increase the crafts velocity. As well as potentially becoming the first use of solar sails in an orbital craft, it this mission was successful it would have been the first space mission by a space advocacy group as it was planned and funded by The Planetary Society. The image above is an artist’s interpretation of a successful <i>Cosmos 1</i> with its deployed solar sail in orbit.</p>
+<p>On this date in 1978, Pluto’s moon, Charon was discovered by James Christy. Today we know Pluto has five moons: Charon, Hydra, Nix, Kerberos and Styx.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-22.jpg" alt=""/></p>
+<p>This image is a true color image of Charon and one of the highest resolution images of the moon. The image was taken during a flyby of the moon by the spacecraft New Horizons on July 14th, 2015, from a distance of 46,091 miles. Some of the most fascinating surface features revealed includes the reddish north-polar region called Mordor Macula.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-21-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-22-2025/)
