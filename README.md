@@ -10,9 +10,9 @@ This interstellar skyscape spans over 4 degrees across crowded starfields toward
 
 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, Jupiter will reach solar conjunction. Due to its close proximity to the Sun in our sky, Jupiter will remain unobservable for several weeks before returning to the early morning sky.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-24.jpg" alt=""/></p>
-<p>Solar conjunction marks the end of the current apparition of Jupiter. The next one begins when Jupiter appears once more on the western side of the Sun. While Jupiter will start to move out from behind the Sun very shortly after its conjunction, it will not be out of the Sun’s glare until late July.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>The moon will reach its new moon phase at approximately 5:31am. The nights on and surrounding new moon leave a darker sky than normal ideal for stargazing and telescope observing.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-25.jpg" alt=""/></p>
+<p>Many globular clusters can be found by looking toward the south around midnight tonight. The globular clusters tend to be found closest to the galactic center. Each crosshair in the image above represents on of many globular clusters in the summer sky.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-24-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-25-2025/)
