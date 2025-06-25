@@ -1,21 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** W5: Pillars of Star Formation  
-📅 **Date:** June 23, 2025  
-📸 **Image Credit:** :
-Francesco Antonucci
-  
+🔭 **Title:** Rubin's First Look: A Sagittarius Skyscape  
+📅 **Date:** June 25, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-How do stars form? Images of the star forming region W5 like those in the infrared by NASA's Wide Field Infrared Survey Explorer (WISE, later NEOWISE) satellite provide clear clues with indications that massive stars near the center of empty cavities are older than stars near the edges.  A likely reason for this is that the older stars in the center are actually triggering the formation of the younger edge stars.  The triggered star formation occurs when hot outflowing gas compresses cooler gas into knots dense enough to gravitationally contract into stars.  In the featured scientifically colored infrared image, spectacular pillars left slowly evaporating from the hot outflowing gas provide further visual clues. W5 is also known as Westerhout 5 (W5) and IC 1848.  Together with IC 1805, the nebulas form a complex region of star formation popularly dubbed the Heart and Soul Nebulas. The featured image highlights a part of W5 spanning about 2,000 light years that is rich in star forming pillars.  W5 lies about 6,500 light years away toward the constellation of Cassiopeia.   APOD Turns 30!: Free public lecture in Cork, Ireland tomorrow (Tuesday) at 7 pm
+This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.
 
-![W5: Pillars of Star Formation](https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1080.jpg)
+![Rubin's First Look: A Sagittarius Skyscape](https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/ic1848_WISEantonucci_1824.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this Day in 1937, geologist and paleoclimatologist Nicholas Shackleton was born. Shackleton’s research helped to identify carbon dioxide as a greenhouse gas and that excessive emissions into the atmosphere can contribute to global climate change.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-23.jpg" alt=""/></p>
-<p>The knowledge of carbon dioxides effect on the atmosphere has not only expanded our knowledge of how our climate is changing from its effects, but also how other planets could be affected by carbon dioxide as well. For example, Venus’ atmosphere is composed of 96.5% carbon dioxide and has what’s known as a runaway greenhouse effect. This causes the planet to hold on to heat from the Sun too effectively, resulting in surface temperatures of approximately 900 degrees Fahrenheit.</p>
-<p>The image above is of Nicholas Shackleton in his office at the Godwin Institute of Quaternary Research, of which he served as director from 1995 until his retirement in 2004.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
+<p>Tonight, Jupiter will reach solar conjunction. Due to its close proximity to the Sun in our sky, Jupiter will remain unobservable for several weeks before returning to the early morning sky.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-24.jpg" alt=""/></p>
+<p>Solar conjunction marks the end of the current apparition of Jupiter. The next one begins when Jupiter appears once more on the western side of the Sun. While Jupiter will start to move out from behind the Sun very shortly after its conjunction, it will not be out of the Sun’s glare until late July.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-23-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-24-2025/)
