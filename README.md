@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Rubin's First Look: A Sagittarius Skyscape  
-📅 **Date:** June 25, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** The Seagull Nebula  
+📅 **Date:** June 26, 2025  
+📸 **Image Credit:** Timothy Martin  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.
+An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.
 
-![Rubin's First Look: A Sagittarius Skyscape](https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png)
+![The Seagull Nebula](https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin.png)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD2048.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>The moon will reach its new moon phase at approximately 5:31am. The nights on and surrounding new moon leave a darker sky than normal ideal for stargazing and telescope observing.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-25.jpg" alt=""/></p>
-<p>Many globular clusters can be found by looking toward the south around midnight tonight. The globular clusters tend to be found closest to the galactic center. Each crosshair in the image above represents on of many globular clusters in the summer sky.</p>
+<p>On this date in 1730 Charles Messier was born. This astronomer catalogued 44 comets and 100 deep sky objects. A deep sky object is a galaxy, star cluster or nebula.  Messier created his catalogue of deep sky objects so astronomers wouldn’t confuse them for comets.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-26.jpg" alt=""/></p>
+<p>The image above is a painting of Messier painted around 1770 surrounded by some of the Hubble Space Telescopes finest images of objects found within Messier’s catalogue. Messier created this catalogue to help astronomers avoid these objects during their hunt for comets. Ironically, today these objects are some of the most sought after in the sky for amateur astronomers.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-25-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-26-2025/)
