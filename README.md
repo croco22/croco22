@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Messier 109  
-📅 **Date:** June 27, 2025  
-📸 **Image Credit:** Robert Eder  
+🔭 **Title:** Lunar Farside  
+📅 **Date:** June 28, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Big beautiful barred spiral galaxy Messier 109 is the 109th entry in Charles Messier's famous catalog of bright Nebulae and Star Clusters. You can find it just below the Big Dipper's bowl in the northern constellation Ursa Major. In fact, bright dipper star Phecda, Gamma Ursa Majoris, produces the glare at the upper right corner of this telescopic frame. M109's prominent central bar gives the galaxy the appearance of the Greek letter "theta", θ, a common mathematical symbol representing an angle. M109 spans a very small angle in planet Earth's sky though, about 7 arcminutes or 0.12 degrees. But that small angle corresponds to an enormous 120,000 light-year diameter at the galaxy's estimated 60 million light-year distance. The brightest member of the now recognized Ursa Major galaxy cluster, M109 (aka NGC 3992) is joined by spiky foreground stars. Three small, fuzzy bluish galaxies also on the scene, identified (top to bottom) as UGC 6969, UGC 6940 and UGC 6923, are possibly satellite galaxies of the larger barred spiral galaxy Messier 109.
+Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lunar farside. Part of a global mosaic of over 15,000 images acquired between November 2009 and February 2011, the highest resolution version shows features at a scale of 100 meters per pixel. Surprisingly, the rough and battered surface of the farside looks very different from the nearside covered with smooth dark lunar maria.  A likely explanation is that the farside crust is thicker, making it harder for molten material from the interior to flow to the surface and form dark, smooth maria.
 
-![Messier 109](https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder1024.jpg)
+![Lunar Farside](https://apod.nasa.gov/apod/image/2506/farside_lro800.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2506/farside_lro1600.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this day in 1997, the Near-Earth Asteroid Rendezvous (NEAR) Shoemaker spacecraft imaged the asteroid Mathilde on course to study the asteroid Eros. In 2001, NEAR Shoemaker would make history as the first craft to land on an asteroid.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-27.jpg" alt=""/></p>
-<p>This image of Mathilde was captured during Near Shoemaker’s flyby. From a distance of 1,212 km, the spacecraft took over 500 images of the asteroid. These images helped astronomers to make more accurate measurements of the asteroid’s dimensions and mass.</p>
+<p>On this date in 1911, the Nakhla meteorite fall occurred. The Nakhla meteorite is a Martian achondrite that fell in in Al Buhayrah, Egypt. It is only one of 5 Martian meteorites to be seen falling to Earth.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jun-28.jpg" alt=""/></p>
+<p>A Martian meteorite is a rock that forms on Mars which is then ejected from the planet from an impact event. It then travels through interplanetary space before landing on the Earth as a Meteorite. The image on the left is an electron microscope image of the meteorite showing microscopic pits on the surface. On Earth rocks, similar pits like this are carved by bacteria. The image on the right is a photo of one of the fragments after being broken open.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-27-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-june-28-2025/)
