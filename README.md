@@ -1,20 +1,23 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Eye Sky a Dragon  
-📅 **Date:** July 1, 2025  
+🔭 **Title:** Milky Way Through Otago Spires  
+📅 **Date:** July 2, 2025  
 📸 **Image Credit:** 
-Anton Komlev
+Kavan Chay; 
+Text: 
+Ogetay Kayali
+(Michigan Tech U.)
   
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What do you see when you look into this sky? In the center, in the dark, do you see a night sky filled with stars? Do you see a sunset to the left? Clouds all around? Do you see the central band of our Milky Way Galaxy running down the middle? Do you see the ruins of an abandoned outpost on a hill? (The outpost is on Askold Island, Russia.)  Do you see a photographer with a headlamp contemplating surreal surroundings? (The featured image is a panorama of 38 images taken last month and compiled into a Little Planet projection.)  Do you see a rugged path lined with steps? Or do you see the eye of a dragon?
+Does the Milky Way always rise between these two rocks? No. Capturing this stunning alignment took careful planning: being in the right place at the right time. In the featured image taken in June 2024 from Otago, New Zealand, the bright central core of our Milky Way Galaxy, home to the many of our Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.  For observers in Earth's Northern Hemisphere, the core is only visible throughout the summer. As Earth orbits the Sun, different parts of the Milky Way become visible at different angles at different times of the night. As Earth rotates, the orientation of the Milky Way in the sky also shifts -- sometimes standing vertically as seen in the featured image, and other times stretching parallel to the horizon, making it harder to see. In early June, observers can watch it emerge low on the horizon after sunset and gradually arc upward to reveal its full grandeur.
 
-![Eye Sky a Dragon](https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_960.jpg)
+![Milky Way Through Otago Spires](https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/EyeDragonSky_Komlev_2000.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this date in 2004, Cassini-Huygens became the first spacecraft to reach and orbit the planet Saturn. Approximately 6 months after reaching Saturn, the Huygens portion of the spacecraft was released and landed on Saturn’s moon Titan. Cassini continued to monitor Saturn and the surrounding system of rings and moons until 2017, when it plunged into Saturn’s atmosphere.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/06/jul-1.jpg" alt=""/></p>
-<p>The image above is one of Cassini’s first images taken of Saturn in 2001. When this photo was taken, Cassini was still 177 million miles away from Saturn. Towards the top of the planet, Saturn’s largest moon Titan is visible. If you want to find more images from the Cassini mission, visit <a href="https://photojournal.jpl.nasa.gov/mission/cassini" rel="noopener noreferrer nofollow" target="_blank">https://photojournal.jpl.nasa.gov/mission/cassini</a></p>
+<p>Tonight, the moon will be nearly in its first quarter phase. The moon will be visible throughout the early evening and will set shortly after midnight.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-2.jpg" alt=""/></p>
+<p>The moon will be near the bright blue star, Spica, which is the brightest star in the constellation Virgo the Maiden.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-1-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-2-2025/)
