@@ -1,23 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Milky Way Through Otago Spires  
-📅 **Date:** July 2, 2025  
-📸 **Image Credit:** 
-Kavan Chay; 
-Text: 
-Ogetay Kayali
-(Michigan Tech U.)
-  
+🔭 **Title:** NGC 6946 and NGC 6939  
+📅 **Date:** July 4, 2025  
+📸 **Image Credit:** Alberto Pisabarro  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Does the Milky Way always rise between these two rocks? No. Capturing this stunning alignment took careful planning: being in the right place at the right time. In the featured image taken in June 2024 from Otago, New Zealand, the bright central core of our Milky Way Galaxy, home to the many of our Galaxy's 400 billion stars, can be seen between two picturesque rocks spires.  For observers in Earth's Northern Hemisphere, the core is only visible throughout the summer. As Earth orbits the Sun, different parts of the Milky Way become visible at different angles at different times of the night. As Earth rotates, the orientation of the Milky Way in the sky also shifts -- sometimes standing vertically as seen in the featured image, and other times stretching parallel to the horizon, making it harder to see. In early June, observers can watch it emerge low on the horizon after sunset and gradually arc upward to reveal its full grandeur.
+Face-on spiral galaxy NGC 6946 and open star cluster NGC 6939 share this cosmic snapshot, composed with over 68 hours of image data captured with a small telescope on planet Earth. The field of view spans spans about 1 degree or 2 full moons on the sky toward the northern constellation Cepheus. Seen through faint interstellar dust couds near the plane of our Milky Way galaxy, the stars of open cluster NGC 6939 are 5,600 light-years in the distance, near bottom right in the frame. Face-on spiral galaxy NGC 6946 is at top left, but lies some 22 million light-years away. In the last 100 years, 10 supernovae have been discovered in NGC 6946, the latest one seen in 2017. By comparison, the average rate of supernovae in our Milky Way is about 1 every 100 years or so. Of course, NGC 6946 is also known as The Fireworks Galaxy.
 
-![Milky Way Through Otago Spires](https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_960.jpg)
+![NGC 6946 and NGC 6939](https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/MwSpires_Chay_1874.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/N6946N6939pisabarro.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>Tonight, the moon will be nearly in its first quarter phase. The moon will be visible throughout the early evening and will set shortly after midnight.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-2.jpg" alt=""/></p>
-<p>The moon will be near the bright blue star, Spica, which is the brightest star in the constellation Virgo the Maiden.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
+<p>Today, Earth reaches aphelion. Aphelion is the point in an elliptical orbit where an object is farthest from the Sun.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-3.jpg" alt=""/></p>
+<p>During our nearly 365-day orbit, the Earth reaches a maximum of approximately 1.0166 AU from the Sun. Our distance to the Sun varies by about 3% over the course of the year but is not responsible for our seasons.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-2-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-3-2025/)
