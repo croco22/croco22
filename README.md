@@ -16,9 +16,9 @@ If you have looked at the sky and seen a group of stars about the size of the fu
 
 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>On this date in 1816, Rudolf Wolf was born. Wolf was a Swiss astronomer best known for his discovery of the Sun’s 11-year sunspot cycle. In 1849 he created a system for counting and tracking sunspots known as Wolf numbers, which is still utilized today.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-7.jpg" alt=""/></p>
-<p>The image to the left is a portrait of Rudolf Wolf taken between 1888 and 1893. The image on the right is the largest sunspot recorded during solar cycle 24, the most recent solar cycle to complete. The cycle lasted from 2008 to 2019, and the spot occurred near solar maximum on October 18th, 2014. This spot was almost 80,00 miles across, which means you could fit 10 Earth’s across its diameter! We are currently in solar cycle 25 and predicted to be in maximum now. During solar maximum there is an uptick in solar activity which leads to more sunspots.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>On this date in 1992, comet Shoemaker-Levy 9 made its closest approach to Jupiter – 74,364 mi (119,677 km) from the surface. The comet wasn’t discovered until 1993, but calculations show that as it passed by in July of 1992, Jupiter’s tidal forces had pulled the comet apart. The fragments of Shoemaker-Levy 9 – 21 pieces in total – collided with Jupiter between July 16 and 22, 1994 creating large dark spots in the planet’s atmosphere.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-8.jpg" alt=""/></p>
+<p>The two images above show the impact sites on the southern hemisphere of Jupiter. They are the dark brown spots that seem to form a line under the great red spot. The image on the left is a visible light Hubble image of the impact spots. The image on the right is a view of the impact spots in ultraviolet light, also taken by the Hubble Space Telescope. The dark circle appearing in the northern hemisphere of the ultraviolet image is a transit shadow of Io, one of the four Galilean Moons.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-7-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-8-2025/)
