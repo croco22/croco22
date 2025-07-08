@@ -1,20 +1,24 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** The Spiral North Pole of Mars  
-📅 **Date:** July 6, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** The Pleiades in Red and Blue  
+📅 **Date:** July 8, 2025  
+📸 **Image Credit:** 
+Ogetay Kayali
+(Michigan Tech U.)
+Text: 
+Ogetay Kayali
+(Michigan Tech U.)
+  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Why is there a spiral around the North Pole of Mars?  Each winter this pole develops a new outer layer about one meter thick composed of carbon dioxide frozen out of the thin Martian atmosphere.  This fresh layer is deposited on a water-ice layer that exists year round.  Strong winds blow down from above the cap's center and swirl due to the spin of the red planet -- contributing to Planum Boreum's spiral structure.  The featured image is a perspective mosaic generated in 2017 from numerous images taken by ESA's Mars Express and elevations extracted from the laser altimeter aboard NASA's Mars Global Surveyor mission.
+If you have looked at the sky and seen a group of stars about the size of the full Moon, that's the Pleiades (M45). Perhaps the most famous star cluster in the sky, its brightest stars can be seen even from the light-polluted cities. But your unaided eye can also see its nebulosity -- the gas and dust surrounding it -- under dark skies. However, telescopes can catch even more. The bright blue stars of the Pleiades, also known as the Seven Sisters, light up their surrounding dust, causing it to appear a diffuse blue that can only be seen under long exposures. But that's not all. The cosmic dust appears to stretch upward like ethereal arms. And the entire structure is surrounded by a reddish glow from the most abundant element in the universe: hydrogen. The featured image is composed of nearly 25 hours of exposure and was captured last year from Starfront Observatory, in Texas, USA  Explore Your Universe: Random APOD Generator
 
-![The Spiral North Pole of Mars](https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg)
+![The Pleiades in Red and Blue](https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_1080.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/MarsNorthPole_MarsExpress_960.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>Today in 1997, NASA’s <i>Sojourner</i> rover was successfully deployed on the surface of Mars. <i>Sojourner</i> was the first wheeled vehicle to operate on an astronomical object other than the Earth or Moon. The rover would successfully explore the surface of Mars for 92 sols, or approximately 95 Earth days.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-6.jpg" alt=""/></p>
-<p>The name <i>Sojourner</i> was chosen as an honor to Civil War era African-American Abolitionist and women’s rights advocate, Sojourner Truth. The naming of the rover was an essay competition put forth by the Planetary Society in 1994. Participants were to choose a “heroine to whom to dedicate the rover” and write an essay about their accomplishments and how it could be related to the Martian environment. JPL received over 3,500 essays from eight countries, but the winner would be 12-year-old Valerie Ambroise of Bridgeport, CT, and her essay about the accomplishments of Sojourner Truth.</p>
-<p>Truth’s birth name was Isabella Bomefree, but she renamed herself to Sojourner Truth after her escape from slavery and into freedom. From there, her life’s mission was to “travel up and down the land” advocating for the right to freedom for all people, living up to her name as Sojourner as the word means “traveler passing through”. Her bravery and wandering nature made her name the perfect fit for the first planetary rover.</p>
-<p>The image to the left is a panorama of <i>Sojourner</i> on Sol 2 taken by the <i>Pathfinder</i> lander. The image on the right is a painting of Sojourner Truth from 1850.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
+<p>On this date in 1816, Rudolf Wolf was born. Wolf was a Swiss astronomer best known for his discovery of the Sun’s 11-year sunspot cycle. In 1849 he created a system for counting and tracking sunspots known as Wolf numbers, which is still utilized today.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-7.jpg" alt=""/></p>
+<p>The image to the left is a portrait of Rudolf Wolf taken between 1888 and 1893. The image on the right is the largest sunspot recorded during solar cycle 24, the most recent solar cycle to complete. The cycle lasted from 2008 to 2019, and the spot occurred near solar maximum on October 18th, 2014. This spot was almost 80,00 miles across, which means you could fit 10 Earth’s across its diameter! We are currently in solar cycle 25 and predicted to be in maximum now. During solar maximum there is an uptick in solar activity which leads to more sunspots.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-6-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-7-2025/)
