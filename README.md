@@ -1,24 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** The Pleiades in Red and Blue  
-📅 **Date:** July 8, 2025  
-📸 **Image Credit:** 
-Ogetay Kayali
-(Michigan Tech U.)
-Text: 
-Ogetay Kayali
-(Michigan Tech U.)
-  
+🔭 **Title:** A Beautiful Trifid  
+📅 **Date:** July 9, 2025  
+📸 **Image Credit:** Alessandro Cipolat Bares  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-If you have looked at the sky and seen a group of stars about the size of the full Moon, that's the Pleiades (M45). Perhaps the most famous star cluster in the sky, its brightest stars can be seen even from the light-polluted cities. But your unaided eye can also see its nebulosity -- the gas and dust surrounding it -- under dark skies. However, telescopes can catch even more. The bright blue stars of the Pleiades, also known as the Seven Sisters, light up their surrounding dust, causing it to appear a diffuse blue that can only be seen under long exposures. But that's not all. The cosmic dust appears to stretch upward like ethereal arms. And the entire structure is surrounded by a reddish glow from the most abundant element in the universe: hydrogen. The featured image is composed of nearly 25 hours of exposure and was captured last year from Starfront Observatory, in Texas, USA  Explore Your Universe: Random APOD Generator
+The beautiful Trifid Nebula is a cosmic study in contrasts. Also known as M20, it lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. But, the red emission region roughly separated into three parts by obscuring dust lanes is what lends the Trifid its popular name. Pillars and jets sculpted by newborn stars, above and right of the emission nebula's center, appear in famous Hubble Space Telescope close-up images of the region. The Trifid Nebula is about 40 light-years across. Too faint to be seen by the unaided eye, in this deep telescopic view it almost covers the area of a full moon on planet Earth's sky.
 
-![The Pleiades in Red and Blue](https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_1080.jpg)
+![A Beautiful Trifid](https://apod.nasa.gov/apod/image/2507/Trifid1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/Pleiades_Kayali_2560.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/Trifid2048.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this date in 1992, comet Shoemaker-Levy 9 made its closest approach to Jupiter – 74,364 mi (119,677 km) from the surface. The comet wasn’t discovered until 1993, but calculations show that as it passed by in July of 1992, Jupiter’s tidal forces had pulled the comet apart. The fragments of Shoemaker-Levy 9 – 21 pieces in total – collided with Jupiter between July 16 and 22, 1994 creating large dark spots in the planet’s atmosphere.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-8.jpg" alt=""/></p>
-<p>The two images above show the impact sites on the southern hemisphere of Jupiter. They are the dark brown spots that seem to form a line under the great red spot. The image on the left is a visible light Hubble image of the impact spots. The image on the right is a view of the impact spots in ultraviolet light, also taken by the Hubble Space Telescope. The dark circle appearing in the northern hemisphere of the ultraviolet image is a transit shadow of Io, one of the four Galilean Moons.</p>
+<p>Tomorrow morning before sunrise, Venus can be seen next to the face of Taurus the Bull. The V-shaped group is an open star cluster known as the Hyades.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-9.jpg" alt=""/></p>
+<p>The Hyades is an open star cluster, meaning that these stars formed together from the same molecular cloud. As they age, close encounters with other stars and clouds of gas in the Milky Way will cause them to spread apart.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-8-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-9-2025/)
