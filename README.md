@@ -1,20 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** NGC 2685: The Helix Galaxy  
-📅 **Date:** July 14, 2025  
-📸 **Image Credit:** 
-Stefan Thrun
-  
+🔭 **Title:** Collapse in Hebes Chasma on Mars  
+📅 **Date:** July 15, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-What is going on with this galaxy? NGC 2685 is a confirmed polar ring galaxy - a rare type of galaxy with stars, gas and dust orbiting in rings perpendicular to the plane of a flat galactic disk. The bizarre configuration could be caused by the chance capture of material from another galaxy by a disk galaxy, with the captured debris strung out in a rotating ring. Still, observed properties of NGC 2685 suggest that the rotating helix structure is remarkably old and stable. In this sharp view of the peculiar system also known as Arp 336 or the Helix galaxy, the strange, perpendicular rings are easy to trace as they pass in front of the galactic disk, along with other disturbed outer structures. NGC 2685 is about 50,000 light-years across and 40 million light-years away in the constellation of the Great Bear (Ursa Major).   Piece it All Together: Astronomy Puzzle of the Day
+What's happened in Hebes Chasma on Mars? Hebes Chasma is a depression just north of the enormous Valles Marineris canyon.  Since the depression is unconnected to other surface features, it is unclear where the internal material went. Inside Hebes Chasma is Hebes Mensa, a 5 kilometer high mesa that appears to have undergone an unusual partial collapse -- a collapse that might be providing clues. The featured image, taken by ESA's robotic Mars Express spacecraft currently orbiting Mars, shows great details of the chasm and the unusual horseshoe shaped indentation in the central mesa. Material from the mesa appears to have flowed onto the floor of the chasm, while a possible dark layer appears to have pooled like ink on a downslope landing.  One hypothesis holds that salty rock composes some lower layers in Hebes Chasma, with the salt dissolving in melted ice flows that drained through holes into an underground aquifer.
 
-![NGC 2685: The Helix Galaxy](https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg)
+![Collapse in Hebes Chasma on Mars](https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this date in 2005, the Cassini spacecraft conducted a flyby of Saturn’s moon Enceladus. The surface of Enceladus is covered in a layer of ice approximately 13 miles (20 km) deep. Beneath the ice is a liquid water ocean that spans the entire moon and is about 25 miles (40 km) deep. The deepest part of Earth’s oceans is called Challenger Deep, which is in the western Pacific Ocean, and is 6.8 miles (10.9 km) deep – much shallower than Enceladus’ global ocean.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-14.jpg" alt=""/></p>
-<p>This image of Enceladus was taken during Cassini’s flyby in 2005. This is a false-color image, meaning some of the color has been enhanced. For example, the blue lines are long fracture lines on the icy surface of the moon.</p>
+<p>In 1975 on this date, the Soviet Union launched Soyuz 19, their part of the joint US-Soviet flight known as the Apollo-Soyuz Test Project, a flight meant to show the thawing political tensions between the two nations. On July 17, the two spacecraft docked and for the next two days the crew members rotated between the two spacecraft, conducting various mainly ceremonial activities.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-15-e1752526737121.jpg" alt=""/></p>
+<p>This image was taken by the American crew in the Apollo Command Module (ACM) of the Soyuz capsule prior to docking the two spacecraft together. The docking mechanism of the ACM can be seen at the top of the image above the Soyuz capsule.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-14-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-15-2025/)
