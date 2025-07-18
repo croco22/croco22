@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** The Rosette Nebula from DECam  
-📅 **Date:** July 16, 2025  
-📸 **Image Credit:** NASA  
+🔭 **Title:** ISS Meets Saturn  
+📅 **Date:** July 18, 2025  
+📸 **Image Credit:** A.J. Smadi  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn't appear to diminish the appearance of this flowery emission nebula, as captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the NSF's Cerro Tololo Inter-American Observatory in Chile.  Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars formed about four million years ago from the nebular material and their stellar winds are clearing a hole in the nebula's center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow. The Rosette Nebula spans about 100 light-years across, lies about 5000 light-years away, and can be seen with a small telescope towards the constellation of the Unicorn (Monoceros).   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library
+This month, bright planet Saturn rises in evening skies, its rings oriented nearly edge-on when viewed from planet Earth. And in the early morning hours on July 6, it posed very briefly with the International Space Station when viewed from a location in Federal Way, Washington, USA. This well-planned image, a stack of video frames, captures their momentary conjunction in the same telescopic field of view. With the ISS in low Earth orbit, space station and gas giant planet were separated by almost 1.4 billion kilometers. Their apparent sizes are comparable but the ISS was much brighter than Saturn and the ringed planet's brightness has been increased for visibility in the stacked image. Precise timing and an exact location were needed to capture the ISS/Saturn conjunction.
 
-![The Rosette Nebula from DECam](https://apod.nasa.gov/apod/image/2507/Rosette_Decam_960.jpg)
+![ISS Meets Saturn](https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3_1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/Rosette_Decam_4000.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this date in 1969, Apollo 11 – with astronauts Neil A. Armstrong, Michael Collins, and Edwin E. Aldrin, Jr., aboard – was launched from Pad A, Launch Complex 39, KSC, at 9:32 a.m.  In just four days, Armstrong and Aldrin would become the first two people to set foot on the moon.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-16.jpg" alt=""/></p>
-<p>The image on the left is of the Saturn V rocket carrying the crew of Apollo 11, lifting off from the Kennedy Space Center’s Launch Complex 39A on July 16th, 1969. The image on the right of the Apollo 11 crew in their spacesuits. Pictured from left to right is Commander Neil Armstrong, Command Module Pilot Michael Collins, and Lunar Module Pilot Edwin “Buzz” Aldrin.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
+<p>Tonight, the Moon reaches its last quarter phase. The moon will appear 50% illuminated and near the zodiacal constellation Aries the Ram.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-17.jpg" alt=""/></p>
+<p>The moon will be rising around 12:30am and set around 2:00pm.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-16-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-17-2025/)
