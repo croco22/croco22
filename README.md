@@ -10,9 +10,9 @@ This month, bright planet Saturn rises in evening skies, its rings oriented near
 
 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the Moon reaches its last quarter phase. The moon will appear 50% illuminated and near the zodiacal constellation Aries the Ram.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-17.jpg" alt=""/></p>
-<p>The moon will be rising around 12:30am and set around 2:00pm.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>Tonight, Messier 55 is well placed and culminating in the south around midnight. This globular cluster will be found near the teapot asterism of the constellation Sagittarius.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-18.jpg" alt=""/></p>
+<p>Messier 55 was discovered in 1752 by French astronomer Nicolas Louis de Lacaille. It was added to the Messier catalog in 1778. While M55 can be visible through a set of 50mm binoculars, to resolve individual stars you will need at least a medium-sized telescope, as it sits 17,600 light-years away from Earth.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-17-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-18-2025/)
