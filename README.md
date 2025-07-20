@@ -10,9 +10,9 @@ About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle
 
 **Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
-<p>Tonight, the galactic center of the Milky Way Galaxy will be due south around 10:00pm. Summer is deemed the best time to observe the Milky Way due to the Earth being positioned facing towards the center of the galaxy during this time of the year.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-19.jpg" alt=""/></p>
-<p>To see the Milky Way Galaxy, you will have to travel to a dark sky site. Due to the light pollution in heavily populated areas, like St. Louis, the galaxy is washed away from artificial light bouncing back towards the ground from the atmosphere above us. To find a dark sky site, check out online bortle maps, such as <a href="https://lightpollutionmap.app/" rel="noopener noreferrer nofollow" target="_blank">https://lightpollutionmap.app/</a></p>
+## Astronomy Fact of the Day 👩‍🚀🚀 
+<p>On this date in 1969, Apollo 11 achieves the first landing of humans on the moon.  The LM touched down on the moon at 4:18pm EDT. Armstrong reported to mission control at MSC, “Houston, Tranquility Base here – the Eagle has landed.” Later, Man’s first step on the moon was taken by Neil Armstrong at 10:56 p.m. EDT. As he stepped onto the surface of the moon, Armstrong described the feat as “one small step for [a] man – one giant leap for Mankind.”</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-20.jpg" alt=""/></p>
+<p>The photo above is one of the most famous photos taken during the Apollo missions. This boot print, left by Aldrin, was to test the physical properties of the lunar regolith. Due to the Moon’s lack of atmosphere, erosion from wind and water does not occur. All boot prints from the Apollo missions remain on the lunar surface today.</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-19-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-20-2025/)
