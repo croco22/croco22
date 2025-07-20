@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** ISS Meets Saturn  
-📅 **Date:** July 18, 2025  
-📸 **Image Credit:** A.J. Smadi  
+🔭 **Title:** Lunar Nearside  
+📅 **Date:** July 20, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-This month, bright planet Saturn rises in evening skies, its rings oriented nearly edge-on when viewed from planet Earth. And in the early morning hours on July 6, it posed very briefly with the International Space Station when viewed from a location in Federal Way, Washington, USA. This well-planned image, a stack of video frames, captures their momentary conjunction in the same telescopic field of view. With the ISS in low Earth orbit, space station and gas giant planet were separated by almost 1.4 billion kilometers. Their apparent sizes are comparable but the ISS was much brighter than Saturn and the ringed planet's brightness has been increased for visibility in the stacked image. Precise timing and an exact location were needed to capture the ISS/Saturn conjunction.
+About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.
 
-![ISS Meets Saturn](https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3_1024.jpg)
+![Lunar Nearside](https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/ISSMeetsSaturn3.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>Tonight, Messier 55 is well placed and culminating in the south around midnight. This globular cluster will be found near the teapot asterism of the constellation Sagittarius.</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-18.jpg" alt=""/></p>
-<p>Messier 55 was discovered in 1752 by French astronomer Nicolas Louis de Lacaille. It was added to the Messier catalog in 1778. While M55 can be visible through a set of 50mm binoculars, to resolve individual stars you will need at least a medium-sized telescope, as it sits 17,600 light-years away from Earth.</p>
+## Astronomy Fact of the Day 👩‍🚀🚀 (1 day offset since no new article has been published yet)
+<p>Tonight, the galactic center of the Milky Way Galaxy will be due south around 10:00pm. Summer is deemed the best time to observe the Milky Way due to the Earth being positioned facing towards the center of the galaxy during this time of the year.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-19.jpg" alt=""/></p>
+<p>To see the Milky Way Galaxy, you will have to travel to a dark sky site. Due to the light pollution in heavily populated areas, like St. Louis, the galaxy is washed away from artificial light bouncing back towards the ground from the atmosphere above us. To find a dark sky site, check out online bortle maps, such as <a href="https://lightpollutionmap.app/" rel="noopener noreferrer nofollow" target="_blank">https://lightpollutionmap.app/</a></p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-18-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-19-2025/)
