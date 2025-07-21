@@ -1,18 +1,18 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Lunar Nearside  
-📅 **Date:** July 20, 2025  
+🔭 **Title:** Cat's Paw Nebula from Webb Space Telescope  
+📅 **Date:** July 21, 2025  
 📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-About 1,300 images from the Lunar Reconnaissance Orbiter spacecraft's wide angle camera were used to compose this spectacular view of a familiar face - the lunar nearside. But why is there a lunar nearside? The Moon rotates on its axis and orbits the Earth at the same rate, about once every 28 days. Tidally locked in this configuration, the synchronous rotation always keeps one side, the nearside, facing Earth. As a result, featured in remarkable detail in the full resolution mosaic, the smooth, dark, lunar maria (actually lava-flooded impact basins), and rugged highlands, are well-known to earthbound skygazers. To find your favorite mare or large crater, just follow this link or slide your cursor over the picture. The LRO images used to construct the mosaic were recorded over a two week period in December 2010.
+Nebulas are perhaps as famous for being identified with familiar shapes as perhaps cats are for getting into trouble.  Still, no known cat could have created the vast Cat's Paw Nebula visible toward the constellation of the Scorpion  (Scorpius).  At 5,700 light years distant, Cat's Paw is an emission nebula within a larger molecular cloud.  Alternatively known as the Bear Claw Nebula and cataloged as NGC 6334, stars nearly ten times the mass of our Sun have been born there in only the past few million years. Pictured here is a recently released image of the Cat's Paw taken in infrared light by the James Webb Space Telescope.  This newly detailed view into the nebula helps provide insight for how turbulent molecular clouds turn gas into stars.    Explore Your Universe: Random APOD Generator
 
-![Lunar Nearside](https://apod.nasa.gov/apod/image/2507/lroc_wac_nearside800.jpg)
+![Cat's Paw Nebula from Webb Space Telescope](https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/1103/lroc_wac_nearside.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/CatsPaw_Webb_1822.jpg)
 
 ## Astronomy Fact of the Day 👩‍🚀🚀 
-<p>On this date in 1969, Apollo 11 achieves the first landing of humans on the moon.  The LM touched down on the moon at 4:18pm EDT. Armstrong reported to mission control at MSC, “Houston, Tranquility Base here – the Eagle has landed.” Later, Man’s first step on the moon was taken by Neil Armstrong at 10:56 p.m. EDT. As he stepped onto the surface of the moon, Armstrong described the feat as “one small step for [a] man – one giant leap for Mankind.”</p>
-<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-20.jpg" alt=""/></p>
-<p>The photo above is one of the most famous photos taken during the Apollo missions. This boot print, left by Aldrin, was to test the physical properties of the lunar regolith. Due to the Moon’s lack of atmosphere, erosion from wind and water does not occur. All boot prints from the Apollo missions remain on the lunar surface today.</p>
+<p>Tomorrow morning, a very thin crescent moon will appear in between the planets Venus and Jupiter. The Moon will only be about 7% illuminated.</p>
+<p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-21.jpg" alt=""/></p>
+<p>Sunrise will begin at 5:55am tomorrow morning. This means your window to see these three close together in the sky is very short. Make sure to head out around 5:00am with a clear view of the east to catch a look at the trio!</p>
 
-**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-20-2025/)
+**Source**: [Saint Louis Science Center](https://www.slsc.org/astronomy-fact-of-the-day-july-21-2025/)
