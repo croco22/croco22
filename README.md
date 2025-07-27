@@ -1,16 +1,16 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Globular Cluster Omega Centauri  
-📅 **Date:** July 26, 2025  
-📸 **Image Credit:** Leo Shatz  
+🔭 **Title:** Lightning over the Volcano of Water  
+📅 **Date:** July 27, 2025  
+📸 **Image Credit:** NASA  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.
+Have you ever watched a lightning storm in awe?  You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result.  Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala.  Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-![Globular Cluster Omega Centauri](https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg)
+![Lightning over the Volcano of Water](https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_960.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/oc_ls_2025.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (5 days offset since no new article has been published yet)
+## Astronomy Fact of the Day 👩‍🚀🚀 (6 days offset since no new article has been published yet)
 <p>Tomorrow morning, a very thin crescent moon will appear in between the planets Venus and Jupiter. The Moon will only be about 7% illuminated.</p>
 <p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-21.jpg" alt=""/></p>
 <p>Sunrise will begin at 5:55am tomorrow morning. This means your window to see these three close together in the sky is very short. Make sure to head out around 5:00am with a clear view of the east to catch a look at the trio!</p>
