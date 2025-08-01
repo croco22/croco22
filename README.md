@@ -1,18 +1,16 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Coronal Loops on the Sun  
-📅 **Date:** July 30, 2025  
-📸 **Image Credit:** 
-Andrea Vanoni
-  
+🔭 **Title:** Small Dark Nebula  
+📅 **Date:** August 1, 2025  
+📸 **Image Credit:** Peter Bresseler  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Our Sun frequently erupts in loops.  Hot solar plasma jumps off the Sun's surface into prominences, with the most common type of prominence being a simple loop.  The loop shape originates from the Sun's magnetic field, which is traced by spiraling electrons and protons.  Many loops into the Sun's lower corona are large enough to envelop the Earth and are stable enough to last days.  They commonly occur near active regions that also include dark sunspots.  The featured panel shows four loops, each of which was captured near the Sun's edge during 2024 and 2025. The images were taken by a personal telescope in Mantova, Italy and in a very specific color of light emitted primarily by hydrogen. Some solar prominences suddenly break open and eject particles into the Solar System, setting up a space weather sequence that can affect the skies and wires of Earth.    Jigsaw Universe: Astronomy Puzzle of the Day
+A small, dark, nebula looks isolated near the center of this telescopic close-up. The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though. About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or the Eagle Nebula. Hubble's iconic images of the Eagle Nebula include the famous star-forming Pillars of Creation, towering structures of interstellar gas and dust 4 to 5 light-years long. But this small dark nebula, known to some as a Bok globule, is a fraction of a light-year across. The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow. Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense, collapsing cores.
 
-![Coronal Loops on the Sun](https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_960.jpg)
+![Small Dark Nebula](https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2507/SunLoops_Vanoni_1223.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2508/BokGlobule_1.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (9 days offset since no new article has been published yet)
+## Astronomy Fact of the Day 👩‍🚀🚀 (11 days offset since no new article has been published yet)
 <p>Tomorrow morning, a very thin crescent moon will appear in between the planets Venus and Jupiter. The Moon will only be about 7% illuminated.</p>
 <p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-21.jpg" alt=""/></p>
 <p>Sunrise will begin at 5:55am tomorrow morning. This means your window to see these three close together in the sky is very short. Make sure to head out around 5:00am with a clear view of the east to catch a look at the trio!</p>
