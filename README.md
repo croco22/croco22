@@ -1,18 +1,16 @@
 # 🌌 Astronomy Picture of the Day 🌌
-🔭 **Title:** Perseids from Perseus  
-📅 **Date:** August 12, 2025  
-📸 **Image Credit:** 
-Marcin Rosadziński
-  
+🔭 **Title:** M13: The Great Globular Cluster in Hercules  
+📅 **Date:** August 14, 2025  
+📸 **Image Credit:** R. Jay Gabany  
 
 ## The Story Behind the Image 🧑‍🚀🔭
-Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Perseus.  That is why the meteor shower that peaks tonight is known as the Perseids -- the meteors all appear to come from a radiant toward Perseus. In terms of parent body, though, the sand-sized debris that makes up the Perseids meteors come from Comet Swift-Tuttle. The comet follows a well-defined orbit around our Sun, and the part of the orbit that approaches Earth is superposed in front of Perseus. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Perseus. Featured here, a composite image taken over six nights and containing over 100 meteors from 2024 August Perseids meteor shower shows many bright meteors that streaked over the Bieszczady Mountains in Poland. This year's Perseids, usually one of the best meteor showers of the year, will compete with a bright moon that will rise, for many locations, soon  after sunset.
+In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison with our neighborhood of the Milky Way, the closest star to the Sun is over 4 light-years away. Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.  Known as the propeller in M13, the shape is likely a chance optical effect of the distribution of stars viewed from our perspective against the dense cluster core.
 
-![Perseids from Perseus](https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg)
+![M13: The Great Globular Cluster in Hercules](https://apod.nasa.gov/apod/image/2508/lrg_ngc6205_1024.jpg)
 
-**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg)
+**Want the HD version?** [Click here!](https://apod.nasa.gov/apod/image/2508/lrg_ngc6205.jpg)
 
-## Astronomy Fact of the Day 👩‍🚀🚀 (22 days offset since no new article has been published yet)
+## Astronomy Fact of the Day 👩‍🚀🚀 (24 days offset since no new article has been published yet)
 <p>Tomorrow morning, a very thin crescent moon will appear in between the planets Venus and Jupiter. The Moon will only be about 7% illuminated.</p>
 <p><img src="https://www.slsc.org/wp-content/uploads/2025/07/jul-21.jpg" alt=""/></p>
 <p>Sunrise will begin at 5:55am tomorrow morning. This means your window to see these three close together in the sky is very short. Make sure to head out around 5:00am with a clear view of the east to catch a look at the trio!</p>
