@@ -93,5 +93,5 @@ with open('README.md', 'w', encoding='utf-8') as file:
 
 # Push to GitHub
 subprocess.run(["git", "add", "README.md"], check=True)
-subprocess.run(["git", "commit", "-m", "Auto-commit: Astronomy Picture of the Day"], check=True)
+subprocess.run(["git", "commit", "--allow-empty", "-m", "Auto-commit: Astronomy Picture of the Day"], check=True)
 subprocess.run(["git", "push"], check=True)
